@@ -120,6 +120,13 @@ def main() -> None:
     print(f"Found {len(kbs)} knowledge base(s): {', '.join(kb['name'] for kb in kbs)}\n")
     for kb in kbs:
         print(f"[{kb['name']}]")
+        # Embedding is the slow, paid step, so we skip a KB whose index already
+        # exists (e.g. faiss_index_handbook, already built in 01-simple-rag). To
+        # force a rebuild after editing a corpus, delete its index_dir and re-run.
+        if (kb["index_dir"] / "index.faiss").exists():
+            print(f"  index already exists at {kb['index_dir'].name}/ — skipping.")
+            print(f"  to rebuild, delete it first:  rm -rf {kb['index_dir']}\n")
+            continue
         documents = load_documents(kb["docs_dir"])
         chunks = chunk_documents(documents)
         vectors = embed_chunks(chunks)
