@@ -1,0 +1,5 @@
+# Lesson 6 — RAG. Standalone: everything this lab needs.
+boto3
+python-dotenv
+faiss-cpu
+numpy
