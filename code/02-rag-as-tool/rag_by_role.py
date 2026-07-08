@@ -58,6 +58,10 @@ def plan_sources(question: str, tool_names: list[str]) -> list[dict]:
         modelId=MODEL_ID,
         system=[{"text": PLAN_SYSTEM}],
         messages=[{"role": "user", "content": [{"text": question}]}],
+        # This toolConfig IS the access control, in two layers. Soft: plan_tool
+        # scopes the `source` enum to THIS role's corpora, so an employee's plan
+        # can't even name the playbook. Hard: load_tools (via setup) loads only the
+        # role's own indexes, so a stray source can't leak — it isn't in memory.
         toolConfig={"tools": [plan_tool(tool_names)], "toolChoice": {"tool": {"name": "plan_sources"}}},
     )
     for block in response["output"]["message"]["content"]:
