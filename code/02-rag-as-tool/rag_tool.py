@@ -41,7 +41,14 @@ def run_agent(question: str, loaded: dict, tool_config: dict) -> str:
 
     for _ in range(MAX_TURNS):
         response = client.converse(
-            modelId=MODEL_ID, system=[{"text": SYSTEM}], messages=messages, toolConfig=tool_config,
+            modelId=MODEL_ID,
+            system=[{"text": SYSTEM}],
+            messages=messages,
+            toolConfig=tool_config,
+            # Same low temperature as rag_answer.py and rag_by_role.py, so the only
+            # thing that changes vs 01-simple-rag is tool-based retrieval, not
+            # sampling. Low temp is fine (often better) for reliable tool calling.
+            inferenceConfig={"maxTokens": 600, "temperature": 0.2},
         )
         message = response["output"]["message"]
         messages.append(message)
@@ -59,6 +66,11 @@ def run_agent(question: str, loaded: dict, tool_config: dict) -> str:
             tool_use = block["toolUse"]
             print(f'  -> {tool_use["name"]}("{tool_use["input"]["query"]}")')
             results = retrieve(tool_use["name"], tool_use["input"]["query"], loaded)
+            # Same chunk ids + cosine scores 01-simple-rag prints, so you can see
+            # what each search actually returned — and how the model's rewritten
+            # query retrieves different chunks than the raw question would.
+            retrieved = ", ".join(f"{cid} (cos {score:.3f})" for cid, score, _ in results)
+            print(f"     retrieved chunks: {retrieved}")
             context = format_context(tool_use["name"], results)
             result_blocks.append(
                 {"toolResult": {"toolUseId": tool_use["toolUseId"], "content": [{"text": context}]}}

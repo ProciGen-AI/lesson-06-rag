@@ -163,24 +163,6 @@ Post-incident reviews should happen after major incidents, customer-visible inci
 
 Some incidents reveal that an ordinary ritual is broken. If a Webex license shortage repeatedly blocks customer calls, the monthly spending review and IT planning rituals should address license forecasting. If customer escalations repeatedly lack product ownership, the customer-story review and Product planning rituals should change. If access mistakes recur for contractors, access review and onboarding rituals should become more explicit.
 
-## 1:1s and Retrospectives
-
-Managers should hold regular 1:1s with direct reports. The cadence depends on ramp, role, and need, but a new employee should not go weeks without direct manager time. Teams should run retrospectives after major launches, incidents, or projects that crossed departments.
-
-For a brand-new report, managers should normally hold a 30-60 minute 1:1 every week for the first few months. New employees, employees new to a role, and employees still building NovaOps context usually need more manager time than stable, fully ramped employees. Once someone is well onboarded, performing, and has stable work, the cadence can drop to about once a month if both people agree. Use judgment: a senior hire may need less task coaching but still needs context, while an L1 or L2 employee may need more frequent guidance.
-
-The 1:1 is not a disguised status meeting. Status belongs in Jira, Salesforce, Slack, SupportDesk, GitHub, BambooHR, or the team board. A 1:1 is where the employee can raise concerns, ask for context, discuss priorities, get feedback, talk through growth, and build enough trust that difficult topics do not appear only during formal reviews.
-
-Managers should protect 1:1s during onboarding. When Maya Cohen starts as a Customer Success Manager, her manager should use early 1:1s to connect customer health rituals, Salesforce habits, Webex customer calls, and SupportDesk escalation norms. When Ben Walker starts as a Sales Development Representative, Liam Oconnor should use early 1:1s to connect prospecting expectations, Salesforce hygiene, ZoomInfo use, and handoff quality. When a contractor such as Priya Raman or Alex Kim is active, Emma Wilson or the delegated technical owner should make sure project scope, repository access, and end dates are clear.
-
-Quarterly growth conversations are also a ritual. Managers and employees should discuss growth at least quarterly, and formal written performance reviews happen twice per year in February and August. Promotion proposals happen in March and September. For details, see [making a career](making-a-career.md). Do not wait for a formal review to give important feedback.
-
-Retrospectives should happen after major launches, incidents, customer escalations, cross-functional projects, onboarding process failures, and operational cycles that caused repeated confusion. A retro should include the people close enough to the work to know what happened and the leaders needed to approve changes. It does not need to include everyone who watched from the side.
-
-A useful retro produces a small number of real changes. "Communicate better" is not a change. "Customer Success will add a Salesforce field for implementation risk before the next handoff review" is a change. "Engineering will add a release checklist item for SupportDesk article readiness" is a change. "IT will require a named expiration date for Slack guests before onboarding contractors" is a change.
-
-Retros should distinguish between a one-time accident and a system pattern. A single missed reminder might need a checklist. Repeated missed access removal for contractors might need an access review ritual, manager training, and a better offboarding trigger. When a retro affects policy, HR records, security, budget, or customer commitments, involve the appropriate owner before changing the process.
-
 ## People Operations and Onboarding Rituals
 
 People Operations rituals help employees start, grow, change roles, and leave with fewer surprises. Sara Ben-David owns the People Operations lead view. Sara Cohen handles contractor paperwork. Maya Rosen coordinates many HR tasks and employee workflows. These rituals often involve private information, so they should be documented in the appropriate HR system rather than public Slack channels.
