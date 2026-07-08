@@ -1,53 +1,67 @@
+---
+last_updated: 2024-02-21
+corpus: handbook
+audience: all
+---
+
 # Making a Career
 
-## Your First Year
+## Growth Philosophy
 
-Congratulations! You’re part of the team!
+A career at NovaOps is built through increasing judgment, scope, and trust. We do not treat growth as a reward for being busy. We look for evidence that your work is becoming more valuable to customers, teammates, and the company.
 
-In your first few weeks, you’ll get aligned with your manager and team on approach and expectations. You’ll get up and running, doing real work. It’s your manager’s responsibility to give you proper opportunities to demonstrate your skills and fit for the job. This includes your technical expertise, your engagement with coworkers, and your ability to take feedback and adapt to the 37signals culture. Similarly, it’s on you to take advantage of those opportunities and to show that you’re capable of meeting the team standards.
+Every role has a title ladder. The ladder describes the expected level of independence, decision quality, collaboration, and impact. See the title guides for [programmers](titles-for-programmers.md), [designers](titles-for-designers.md), [QA](titles-for-QA.md), [operations](titles-for-ops.md), and [support](titles-for-support.md). The title guides are not scripts; they are shared language for fair conversations. They are also not a point system where enough examples automatically create a new title.
 
-When you start, you’ll receive an outline of expected performance metrics. Those standards will be clear and attainable, and your manager will give you frequent, candid feedback on how you're doing meeting them, as you go.
+Growth can happen through promotion, larger scope, a transfer, people management, or deeper individual contribution at the same title. Sometimes the right next step is not a new title yet. It may be a six-week stretch assignment, clearer decision rights, sharper feedback, or a chance to run a messy cross-functional problem with support.
 
-You'll have formal performance reviews with your manager at the 3-, 6-, and 12-month marks. On occasion, despite our collective best efforts, it’s not a fit. We don’t do full-scale performance improvement plans during the first year. So if during that time it starts looking like your long-term employment won’t work out, your manager will let you know early and why.
+## Performance Conversations
 
-By the time you've reached your 1st anniversary with the company, we expect to be as excited about working with you as we were on day one. Likewise you should consider if you feel the same about having joined the team. When both of those answers are ["hell yeah!"](https://world.hey.com/jason/on-hiring-rehiring-and-one-question-to-answer-them-all-5db97bcb), you'll move into a less frequent performance review cycle. Just once a year, around your anniversary of joining the company.
+Managers and employees should discuss growth at least quarterly. A useful growth conversation covers what changed in the role, what evidence shows readiness for more scope, what gaps still matter, and what support is needed. Formal written performance reviews happen twice per year, in February and August, and are recorded in BambooHR.
 
-Your first year with 37signals should confirm what we learned in the hiring phase — you’re well suited for this job, and you’re invigorated by the work to be done. Just put in your best effort, make sure you reach out if things aren’t feeling right, embrace the feedback you get from your manager, and openly share your feedback with them!
+Quarterly conversations do not have to wait for the formal review window. If an employee joined recently, changed managers, or transferred teams, the manager should still write down the standard being used, even if the February or August review is short. BambooHR is the source of record for completed written reviews. Supporting examples may live in Jira, GitHub, Salesforce, support cases, design files, customer notes, launch retrospectives, or operating checklists.
 
-## Mastery & Titles
+You should never first hear about a serious performance concern in a formal review. If expectations are unclear, ask your manager to write the expected outcomes, decision rights, and examples of strong work for your level. Managers should name the concern while there is still time to act on it. "Needs more senior judgment" is not enough by itself; the employee should know what decision went wrong, what better judgment would have looked like, and how future work will be evaluated.
 
-Advancing your career at 37signals doesn’t mean giving up on your craft. No matter your role, you can become better at the work itself and level up that way. This is especially important since we’re a relatively small company with few layers of managerial cake.
+Good written reviews use examples from the review period and separate impact from style. A messy project that reduced customer risk may be strong evidence even if the plan changed three times. A polished deck with no decision, no shipped improvement, and no clearer customer outcome is weak evidence. If someone is ready for more scope, the review should say what scope.
 
-Within each of our job functions, we’ve mapped our trajectory of mastery to five different levels. That title structure is shared amongst all departments, but the particulars of what characterizes one level from another will of course be different.
+## Promotion Process
 
-* Junior (L1)
-* Mid-level (L2)
-* Senior (L3)
-* Lead (L4)
-* Principal (L5)
+NovaOps promotion cycles run twice per year. March proposals take effect April 1, and September proposals take effect October 1. A promotion requires a manager-written packet with evidence from recent work, peer input when relevant, and a mapping to the next title level. Employees may also ask their manager to consider a promotion packet.
 
-Mastery and internal leveling are assessed and determined during hiring.
+To be eligible, you generally need at least six months in your current role, sustained performance at your current level, and evidence that you are already operating at the next level in important ways. Tenure alone is not enough. A single intense project is also not enough if the next level requires repeatable judgment.
 
-If you're hired at a level below Senior, you should work towards developing Senior level skills. Juniors should achieve Senior in 4 years (2 to Mid-level, 2 to Senior), and Mid-level contributors should achieve Senior in 2 years. When everyone is able to follow that trajectory, we create healthy, high-performing teams where everyone can trust each other to run at similar speeds. When people aren't able to level up within the above timeframes, after ample opportunities to do so, we usually determine that to be a bad long-term fit and we'll decide to part ways.
+Managers calibrate promotion proposals with People Operations and the department leader. Finance confirms compensation changes before the decision is final. Your manager should not promise a promotion before calibration is complete.
 
-Once you reach Senior, there is no expectation of further progression to Lead or Principal. In fact, most people will not achieve the Principal title! We see that level as reserved for people whose innovative work creates a resounding impact across the organization and even the industry. Those who do end up progressing all the way through our path usually have worked at 37signals for a decade or more.
+### Promotion Packet Contents
 
-The proficiencies expected of all of our major teams by level are documented here: [Designers](https://github.com/basecamp/handbook/blob/master/titles-for-designers.md), [Ops](https://github.com/basecamp/handbook/blob/master/titles-for-ops.md), [Programmers](https://github.com/basecamp/handbook/blob/master/titles-for-programmers.md), [QA](https://github.com/basecamp/handbook/blob/master/titles-for-QA.md), and [Support](https://github.com/basecamp/handbook/blob/master/titles-for-support.md).
+A promotion packet should be understandable to a department leader who did not attend every meeting. It should include current title, proposed title, current manager, department, time in role, proposed effective date, the title ladder being used, evidence, relevant peer input, and the manager's known concerns or open questions. For cross-functional roles, choose the ladder that best matches the actual work. An HR Operations Specialist normally uses the [operations ladder](titles-for-ops.md), while a QA engineer embedded on a product team normally uses the [QA ladder](titles-for-QA.md). If the ladder choice is debatable, say why.
 
-## Pay & Promotions
+The evidence section should show a pattern across recent work. Strong evidence includes shipped product improvements, reduced incidents, better release quality, customer outcomes, measurable process improvements, durable documentation, mentoring that made another person more effective, decisions that prevented waste, or repeated judgment in ambiguous situations. For programmers, connect technical work to reliability, customer value, security, cost control, or team leverage. For designers, include the customer problem and tradeoffs rejected. For support, include customer trust, escalation quality, and product feedback. For operations, include before-and-after cycle time, risk reduction, cleaner audits, safer access, or fewer repeated questions.
 
-37signals pays at the top 10% for our industry at San Francisco salary levels, regardless of where you live. The comparison data is provided by a company called Radford that polls compensation data from all the major companies in our industry and plenty of our smaller peers as well.
+Non-evidence is just as important. A packet should not rely on hours worked, being available late, being well liked, attending many meetings, having the loudest opinion, writing a long plan that was never used, closing easy tickets in bulk, or owning a crisis that the employee also helped create. Slack praise can support a packet, but it cannot replace examples of work. A single heroic launch can count, but the packet must explain what judgment repeated after the launch ended.
 
-Some jobs at 37signals are *not* matched to Radford comparison data. Compensation for common technical roles like programming and design is reliably competitive in a market like San Francisco. For some non-technical roles, compensation is much lower, and much less competitive. To compensate for that industry disparity, we instituted a [$73,500 salary floor](https://m.signalvnoise.com/minimum-pay-at-basecamp-is-now-70000/) (floor adjusted for inflation since publishing).
+Peer input is useful when the next level depends on influence outside the reporting chain. It should be specific, recent, and connected to the ladder. "Great teammate" is thin. "Changed the release checklist so QA, Support, and Engineering now catch billing-risk defects before launch" is stronger. Do not collect peer feedback from people who cannot evaluate the work just to make the packet look broad.
 
-The Radford data is reviewed once per year at the end of November. If it’s warranted, that is if the market rates in the top 10% have gone up, we’ll increase pay on January 1st to follow suit. We don’t decrease pay, even if the market rates may have dropped. If that happens, we’ll hold them steady until they come up again.
+### Calibration
 
-Everyone in the same role at the same level is paid the same at 37signals.
+Calibration is the meeting where managers, People Operations, and the department leader compare packets against the same standard. The goal is not to make every department identical. It is to avoid accidental promotions based on manager optimism, local title inflation, or whoever wrote the most dramatic packet. People Operations checks process fairness, timing, and documentation. The department leader checks scope and business need. Finance checks compensation changes before the decision is final.
 
-When you get a promotion, that is you move from one level to another, you’ll get a corresponding pay raise effective on your next pay cycle.
+Edge cases should be named directly. If an employee changed managers during the cycle, the old and new manager should agree who owns the packet and which evidence is reliable. If someone transferred teams, the packet should separate evidence from the previous role and evidence in the new role. If the employee has been in title for less than six months, the manager must explain the exception; most short-tenure cases should wait. If a project was canceled, the packet can still use the work if it showed next-level judgment before cancellation. If performance is uneven, calibration may approve a growth plan instead of a promotion.
 
-## Performance Reviews
+Managers should share the outcome after calibration, not before. A "likely" promotion is still not final until People Operations, the department leader, and Finance have completed their parts. If a packet is declined, the manager should give the employee a written explanation with the specific ladder gaps, the evidence that was missing, and what would make the next cycle stronger. "Try again later" is not an acceptable explanation.
 
-You’ll meet with your manager for formal performance reviews. When you’re new to 37signals, you’ll meet at the 3-month, 6-month, and 1-year marks. Then you’ll meet once a year, around your anniversary with the company. Your manager will share performance expectations for your role when you start, and they’ll keep you apprised of any changes to expectations should they evolve.
+## Review and Cycle Timing
 
-Managers are expected to document performance review outcomes and any action items or deadlines that come out of the meetings.
+The practical calendar is simple. February and August are formal written performance review months. March and September are promotion proposal months. Approved March promotions take effect April 1. Approved September promotions take effect October 1. Managers should start gathering promotion evidence before the proposal month, not during the last week of calibration. Employees who want consideration should raise it in the quarterly growth conversation before the cycle whenever possible.
+
+A missed cycle does not create a backdated promotion by default. Backdating is rare and requires People Operations and Finance approval because it affects compensation records. If a manager forgot to submit a packet, the department leader should review the mistake, but the normal remedy is a clearer next-cycle plan, not an informal title promise.
+
+## Transfers and New Paths
+
+Internal transfers are encouraged when they solve a business need and support an employee's growth. Start with your manager, then speak with the hiring manager and People Operations. A transfer is not a workaround for performance concerns; it should be a mutual fit with a clear ramp plan.
+
+Transfers should document the target role, manager, department, expected start date, access changes, and the first 30 to 60 days of ramp. Some transfers are lateral, some reset the ladder, and some create a future promotion path without changing title immediately. A senior person moving into a new discipline may keep compensation while learning a different ladder, but the new manager should be explicit about what "senior" means in the new work. Access changes follow [our internal systems](our-internal-systems.md); moving into Engineering, QA, Product, HR, or Customer Success may change GitHub, BambooHR, Salesforce, Jira, or other system access.
+
+If the employee is currently on a performance improvement plan or has unresolved serious concerns, People Operations must review the transfer before interviews continue. This prevents a messy handoff where the receiving manager thinks they are hiring for growth while the sending manager is quietly moving a problem. When a transfer is approved, both managers should agree what feedback carries forward and what should be treated as context rather than baggage.
+
+Career paths at NovaOps are allowed to bend. An operations employee may move toward HR systems work, a support employee may move toward product operations, or a programmer may move toward engineering management. The standard is the same in every path: make the work better, make the people around the work more effective, and show judgment that can be trusted when nobody is watching every step.

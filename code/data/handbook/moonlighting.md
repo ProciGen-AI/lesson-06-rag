@@ -1,34 +1,67 @@
-# A Note About Moonlighting
+---
+last_updated: 2026-04-15
+corpus: handbook
+audience: all
+---
 
-Moonlighting means working other professional, paid jobs outside of your work at 37signals. It’s not a black and white topic. There are one-time gigs, other pursuits, or opportunities that help you grow and make life interesting. We want to support that. But we want to make sure professional endeavors outside of 37signals don’t create conflicts of interest or affect your time, dedication, or performance at 37signals. So it’s a delicate balance.
+# Moonlighting
 
-With that in mind, here are some examples of what we’d consider OK and what we would consider a conflict of interest and not OK:
+## The Short Version
 
-## OK
+NovaOps employees may have outside interests, volunteer commitments, creative projects, and occasional paid side work. We care about conflicts, fatigue, confidentiality, and customer trust. We do not care about controlling your evenings.
 
-1. An occasional side gig, free or paid, for someone you know. For example, if you want to work on a friend’s website, or a design or writing project for something you’re involved with, that’s fine.
-2. An occasional speaking gig, free or paid. Someone’s going to pay you to give a talk somewhere? That’s fine as long as it doesn’t involve multiple days off for travel (unless you use your own personal vacation time against this travel time).
-3. A side business that’s different from your day job, as long as the commitment is only a few hours a week. If you come to work exhausted because you’re trying to start a full-time business on the side, it’s going to impact your performance here.
-4. Serve as an advisor for another company, or be on a board, as long as there’s no conflict of interest. The time commitment must be under a few hours a month. And if there’s a scheduling conflict, 37signals gets priority.
-5. Do volunteer or occasional pro-bono work for a cause you’re actively involved with. A little work here and there is fine, but, for example, becoming an organization’s full-time web designer and being on the hook to work during your standard work day, etc, would not be OK.
+You may not work full-time or part-time for another company in our industry while employed by NovaOps. That includes competitors in workflow automation, enterprise SaaS operations, customer support automation, or products that would reasonably compete with NovaOps. The concern is a conflict of interest, not the number of hours alone.
 
-## Not OK
+## What To Disclose
 
-1. You can’t work full time or part time for another company in our industry. If you’re unclear about what our industry is, and you have a specific situation you’d like to talk about, ping Jason or David.
-2. Go out on a regular speaking circuit tour which is going to require multiple days of travel multiple times a year. That’s too disruptive to our own work schedule and to your fellow teammates.
-3. Consult for other companies in our industry where there may be a conflict of interest (a competitor, a product tangentially related to 37signals, etc).
-4. Be aggressive in marketing your availability for side work. If something comes to you through a friend or some connection, fine, but aggressively promoting something on the side will ultimately result in a conflict of interest here at work.
-5. Take on anything outside of work that’ll pull attention from work. For example, if you wanted to launch an app, but the app requires providing timely customer support to people who use the app, that’s going to eat into your day here at work. That would ultimately be a problem.
+Outside work includes paid employment, freelance projects, consulting, advisory work, board service, compensated speaking, recurring teaching, paid content creation, equity-only startup help, and volunteer roles where your NovaOps role or access could matter. Work through a personal company, family business, or online marketplace still counts.
 
-## In general
+If outside paid work is recurring, expected to exceed eight hours in a week, or likely to pay more than USD 500 in a month, disclose it to your manager and People Operations before you commit. Disclosure is not an automatic no. It gives us a chance to check for conflicts and set boundaries.
 
-Here are a few guiding principles about whether something could be a problem:
+Also disclose side work before accepting it when any of the following are true:
 
-* Is it competitive?
-* Does it occupy a disproportionate amount of your time?
-* Does it require you to be away during times when you’re needed at work?
-* Is it another paid gig that employs the same skills 37signals is paying you for?
+- The organization is a NovaOps customer, prospect, vendor, reseller, implementation partner, investor, or competitor.
+- The work involves workflow automation, enterprise SaaS operations, customer support automation, CRM data, source control, observability, identity, payroll, e-signature, or cloud infrastructure.
+- You would use your NovaOps title, mention NovaOps in marketing, sign an outside NDA, receive equity, access nonpublic business information, meet during normal NovaOps hours, or be on call.
 
-In general, we’d like to be lenient within reason, but we’re going to be strict if we see it impact your time, attention, or performance here at work.
+Send the disclosure to your manager and people-ops@novaops.example. Include the outside organization, kind of work, expected hours, compensation or equity, any NovaOps connection, and any software access or confidential information involved. Do not attach customer records, source code, or private third-party documents.
 
-It’s hard to come up with one-size fits all rules. If you’re in doubt, please reach out to your manager.
+## Acceptable Side Work
+
+Occasional side gigs outside our industry can be acceptable when they happen outside NovaOps working time, do not use NovaOps equipment or accounts, do not involve NovaOps customers or prospects, and do not interfere with your performance. Examples include teaching a weekend course, selling art, advising a local nonprofit, tutoring, repairing bicycles, performing music, or doing unrelated consulting.
+
+Usually acceptable after disclosure: a Product employee teaches an evening workshop on general discovery; an Engineer fixes a public library bug from a personal laptop; a Customer Success employee helps a family bakery set up a simple website; a Finance employee serves on an unpaid nonprofit board. These can become conflicts if the bakery asks for support automation, the workshop wants NovaOps screenshots, or the nonprofit becomes a NovaOps customer.
+
+## Conflict Review Process
+
+Your manager checks performance, schedule, role overlap, and whether the outside work would make NovaOps work harder to prioritize. People Operations checks consistency, employee records, and any written conditions or expiration dates. IT or Security may review requests involving tools in [our internal systems](our-internal-systems.md), customer data, security research, source code, or personal devices. Finance or Legal may review vendor, customer, investor, or contract edge cases.
+
+We try to answer ordinary disclosures within five business days. Until People Operations documents approval, do not start work that crosses a disclosure threshold. Approvals can be limited by client, project, hours, duration, public attribution, or systems used. A typical approval might allow six hours per week through 2026-12-31, with no NovaOps equipment, customer examples, or support automation work.
+
+If the outside work changes, disclose again. Changes include a new client, new product area, more hours, higher compensation, a switch from unpaid to paid, use of your NovaOps title, or contact with a NovaOps customer, prospect, vendor, or competitor.
+
+## Customer And Vendor Edge Cases
+
+Do not accept paid side work from a NovaOps customer or prospect without written approval from People Operations and the executive owner of that customer relationship. Even harmless-looking work can confuse who you represent. A Customer Success Manager cannot privately train a customer on a workflow tool, and an Engineer cannot build a paid integration for a prospect evaluating NovaOps.
+
+Vendor work needs the same caution. Do not privately advise, test, sell for, or build add-ons for vendors such as Salesforce, GitHub, Jira, Notion, Okta, BambooHR, Deel, AWS, Figma, Miro, SecureSign, CloudBackup, MailGuard, SupportDesk, or similar tools if the work relates to NovaOps use, pricing, procurement, roadmap, security posture, or contract terms. If a vendor asks for paid feedback because you are a NovaOps employee, disclose before answering.
+
+Friends make this messy, but friendship does not remove the conflict. You may give general career advice; you may not share NovaOps roadmap details, customer issues, sales leads, security gaps, pricing strategy, or internal process notes.
+
+## Open Source And Public Work
+
+Engineering employees may contribute to open-source projects using personal accounts, personal equipment, and personal time. Do not contribute NovaOps proprietary code, customer data, roadmap details, or security-sensitive information. If a project overlaps with NovaOps product areas or uses knowledge gained from unreleased NovaOps work, ask your manager and IT before contributing.
+
+Do not use your NovaOps GitHub account for personal projects. Do not add NovaOps code to personal repositories, even temporarily. Do not copy a snippet out of a NovaOps repository to "clean it up later."
+
+Open-source contributions are usually fine when they are general, public, and not uniquely informed by NovaOps confidential work: documentation fixes, personal-time bug reports, hobby packages unrelated to NovaOps, or small patches to public libraries. Ask first when the project is a NovaOps product dependency, owned by a customer or vendor, paid, governed by a company contributor agreement, or likely to make you appear to represent NovaOps.
+
+Security research and bug bounty work require extra care. Do not test NovaOps customers, prospects, vendors, or competitors unless Security gives written approval. Do not use NovaOps credentials, cloud resources, logs, scanners, or devices for outside testing. See [managing work devices](managing-work-devices.md).
+
+## When We Will Say No
+
+NovaOps will reject outside work that creates a competitive conflict, uses confidential information, confuses customers about whom you represent, requires availability during your normal work hours, or regularly leaves you too tired to do your role well.
+
+Specific no examples include a part-time software job at another workflow automation company, paid support automation consulting for a NovaOps prospect, private Salesforce cleanup work for an active NovaOps customer, building an integration that competes with a planned NovaOps feature, recruiting NovaOps teammates for a side company, selling leads from NovaOps systems, or using a NovaOps laptop for a freelance project.
+
+Managers should apply this policy consistently. A senior employee does not get a larger conflict allowance than a new employee. If you are unsure, ask early. Quiet conflicts are harder to solve than disclosed ones, and a late disclosure may still require the work to stop.

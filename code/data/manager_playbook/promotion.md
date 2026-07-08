@@ -1,50 +1,93 @@
-# Promoting Your Report
+---
+last_updated: 2024-08-05
+corpus: manager_playbook
+audience: manager
+---
 
-There are two factors for managers to consider when thinking about promoting a teammate:
-1. Individual performance.
-2. Business needs. 
+# Promotion
 
-## Individual Performance
-Every job at 37signals has a career progression framework which outlines the competencies needed to progress from a Junior contributor (L1) all the way through Principal (L5). Some jobs have a portion of that framework (e.g. L2-L3) when the entire 5-step continuum hasn’t been needed yet. 
+## Manager Responsibility
 
-When considering promoting someone on your team, first assess their performance against their progression framework. Consider the following questions:
-1. Are they exceeding expectations in all categories of their current level, and meeting expectations in the level to which you'd like to promote them? They don't need to exceed the promotion level in all categories, but they should be reliably performing in most next-level competency areas.
-2. Can you point to work that illustrates how they exceed performance expectations? For example, a Senior Programmer is expected to be capable of devising new patterns and conventions within existing code bases and in greenfield development. Show your report's body of work where they've demonstrated successful application of that Skill.
-3. Has your report been exceeding performance expectations for a sustained period of time? It's great when people start to perform above their level, but give it some time to ensure their promotion is conferred only when their performance is reliably solid at the next step up. Usually 6-12 months is enough time.
+Managers are responsible for making promotion readiness visible. Employees may ask about promotion, but they should not have to run a secret campaign. If someone is close, tell them what evidence is missing. If they are not close, explain that too.
 
- Granting a promotion isn't entirely about ticking off the boxes of the rubric. If you can go down the list of Skills, Engagement, and Coachability requirements and say confidently that your report is performing well at their next level, then consider the following:
+NovaOps promotion cycles run twice per year. March proposals take effect April 1, and September proposals take effect October 1. A promotion is not final until calibration and Finance review are complete.
 
-1. What does your instinct tell you about your report's ability to succeed at the next level? Do they take the initiative on exploring new work? Do they see that work through and retain ownership? Is their focus and follow-through consistent and reliable? Do you trust their decision making abilities? If they were suddenly without your oversight, would the quality of their work be acceptable?
-2. How confident are you in your assessment? If pressed, would you be able to (and want to) defend your decision to promote? Are you not just confident, but enthusiastic about your assessment - "hell yeah"?
-3. Are you being objective? That is, as objective as you can be. The progression frameworks are written in plain language. You should be able to stand your report's performance against their rubric and see clearly whether or not it hits the right marks. Avoid trying to interpret the language in the rubric to fit a level-up, or fluffing up your report's work to meet the mark because you want them to succeed. It's a nice impulse! But ultimately unhelpful to team dynamics and cohesion.
+Promotion is a company decision, not a private promise between a manager and a report. The manager owns the case, the department leader owns calibration for the function, People Operations owns process consistency, and Finance confirms compensation impact. If any of those steps are incomplete, the promotion is not approved yet.
 
-## Leveraging AI When Considering Promotion
-AI can help with promotion decisions when used to clarify (not replace) manager judgment. Ask AI to "find the diff” between your report's current and next-level expectations (e.g. L2 → L3), and translate our job descriptions into a concise set of implied promotion criteria. Leveraging AI like this helps managers focus on what's changed between levels rather than over-indexing on recent performance or on patternless signals. It also provides a lens to review your notes from over the months, improving consistency and mitigating implicit biases.
+Employees should know where they stand before the cycle opens. A manager who says "I had no idea you wanted to be promoted" has probably missed earlier growth conversations. A manager who says "I thought you were ready but calibration disagreed" needs to explain the evidence gap, not hide behind the process.
 
-AI output should be used to support assessment work you've already done and not as a checklist or bar for promotion readiness. Validating your work with AI allows you to more efficiently spend your time parsing the ambiguity of our framework language and considering the inconsistencies in our assessment language. Our assessment frameworks and language are unavoidably nuanced and subjective; in fact, they're intentionally so, and something we cannot lose to AI processing. AI can help managers base promotion considerations firmly in their report's behaviors, while reserving their human judgment and context for final decisions.
+## Readiness
 
-## Business Needs
-Strong individual performance is necessary for a promotion, but it's not enough. After establishing that your report is operating at the next level, ask yourself whether promoting them also serves a business need.
+Promotion readiness means the employee is already operating at the next level in important, repeatable ways. Look for sustained judgment, broader scope, stronger collaboration, and outcomes that match the title guide. Do not promote someone only because they have been in seat a long time, worked unusually hard for one launch, or might leave.
 
-In general, we promote employees for a couple reasons:
-1. To recognize & reward high performance.
-2. To increase engagement and retention.
-3. To advance the needs of the company.
+Employees generally need at least six months in their current role before promotion. Exceptions require department leader and People Operations approval.
 
-At 37signals, promotions carry some extra weight because we don’t give merit raises or incentive pay. That makes promotion our primary mechanism for rewarding excellent performance. As a result, it’s easy to default to thinking of promotions as solely recognition tools when they are also structural decisions. 
+Readiness is different from potential. Potential means the employee may be able to do next-level work with more support. Readiness means there is evidence they are already doing meaningful parts of that work. Managers should support potential with coaching, stretch assignments, and feedback; they should support readiness with a promotion packet.
 
-You should be able to answer some questions when building your case for promotion:
-- Will another [level/title] improve how the team operates? Are we over-leveling relative to the actual work to be done?
-- Why is *promotion* the right solution? Could we make a different change that gets to the same benefit a promotion would bring, e.g. adjustingn project assignments or pulling from another team?
-- What happens if we don’t promote? Is there a downside to keeping things as-is?
+Readiness also differs by ladder. A senior engineer may need evidence of technical judgment across services, not just many completed tickets. A senior support employee may need evidence of handling complex customer escalations and improving the support system, not just closing a high ticket count. An operations employee may need evidence of making a process safer and more repeatable, not just personally rescuing it every week.
 
-If you can’t reasonably project your promotion case resulting in positive changes to outcomes, ownership, and capability, pause and reassess.
+Do not over-index on one heroic project. A launch, incident response, renewal save, or cleanup sprint can be evidence, but promotion requires repeatability. Ask whether the employee can apply the same judgment again without unusual manager intervention.
 
-## Promotion Process
-Once you're confident your report meets the criteria for promotion, write a pitch for promotion and share it with People Ops. Make sure you hit the following points:
-- Exceeds expectations in all current level categories with work samples. 
-- Meets expectations in most next level categories with work samples. 
-- Narrative assessment of your report's work, skill level, engagement, attitude, and coachability, with examples. 
-- The business case for promotion.
+## Evidence That Helps
 
-You can and should communicate often, and in detail, with your report about what steps they need to take to be promoted. But refrain from promising anything on any sort of timeline. As described above here, we don't use checklists or schedules for promotions and raises, there's more to it than that. Share your experience with your report, be generous with your feedback and your candid impressions of where you see opportunities for advancement and improvement, without committing to a promotion until final approval. 
+Strong promotion evidence is specific, recent, and mapped to the next level. It may include:
+
+- A shipped product improvement with clear customer or operational impact.
+- A reliability change that reduced incidents, on-call load, or AWS risk.
+- A design-system improvement that reduced repeated design and engineering work.
+- A Salesforce or Customer Success process that improved renewal quality.
+- An onboarding, access, or procurement workflow that reduced cycle time and risk.
+- Mentorship that made another employee more capable without creating dependency.
+- Cross-functional leadership where the employee clarified tradeoffs and drove a decision.
+
+Weak promotion evidence includes being liked, being busy, being the only person who understands a messy process, threatening to leave, working long hours, or doing current-level work perfectly but without next-level scope. Excellent current-level performance is valuable and should be recognized, but it is not automatically promotion readiness.
+
+## Creating the Path
+
+Managers should create a path before the packet. If someone wants promotion, identify the next-level expectations, the strongest current evidence, the missing evidence, and the work that could reasonably produce it. The path should be written enough that both manager and employee can revisit it in 1:1s.
+
+Do not create fake stretch work. A stretch assignment should matter to the business and fit the employee's likely next level. Asking an employee to do extra work that nobody needs is demoralizing and creates bad evidence. Better stretch work might be leading a Jira planning effort, owning a customer escalation pattern, improving access review quality, writing a technical decision record, or mentoring a new hire through a defined outcome.
+
+## The Packet
+
+The manager writes the promotion packet. It should include the current level, proposed level, summary of impact, evidence mapped to the title guide, peer or stakeholder input when relevant, and any compensation or role-scope implications. Use concrete examples: product launches, reliability improvements, customer retention, process improvements, mentorship, or operational risk reduction.
+
+Share the substance of the packet with the employee before calibration so there are no surprises about the argument being made.
+
+The packet should answer five questions:
+
+- What level is proposed and why now?
+- What next-level expectations are already being met?
+- What evidence shows sustained impact?
+- What will change after promotion: scope, expectations, decision rights, or title only?
+- What risks or gaps remain, and how will the manager support them?
+
+Peer input should be targeted. Do not ask peers to write general praise. Ask questions tied to the level: decision quality, collaboration, reliability, customer impact, mentorship, or operational ownership. Summarize peer input rather than copying private comments wholesale.
+
+For manager promotions or promotions into people management, include evidence of management readiness. Strong individual contribution does not automatically mean someone should manage people. Look for coaching ability, fairness, communication, follow-through, and willingness to have hard conversations.
+
+## Timing and Edge Cases
+
+March promotion proposals take effect April 1. September promotion proposals take effect October 1. Late packets are discouraged because they weaken calibration and Finance review. If a business-critical case emerges off-cycle, the department leader, People Operations, and Finance must approve the exception before the manager raises expectations with the employee.
+
+Role changes and promotions can overlap, but they are not the same. A transfer from Customer Success to Product may be a lateral move while the employee builds new evidence. A title change after a department restructure may clarify role scope without being a promotion. A compensation adjustment may happen for market or retention reasons without changing level. Use precise language.
+
+Employees returning from leave should not be penalized for the time away. Evaluate the evidence from the working period and plan a fair path for new evidence after return. Do not rush a promotion packet during leave unless People Operations confirms the employee can participate appropriately and the evidence is already complete.
+
+## Calibration and Communication
+
+Department leaders and People Operations calibrate proposals for consistency. Finance confirms compensation changes and effective dates. If the promotion is approved, the manager communicates the decision, title, effective date, and new expectations. If it is not approved, the manager explains the gap and creates a growth plan.
+
+Do not promise a future promotion as comfort. Promise the next evidence review and the support you will provide.
+
+Calibration may approve, deny, or defer a packet. Approved means the evidence supports the new level and Finance has confirmed the compensation step. Denied means the evidence does not support the promotion this cycle. Deferred means the case may be close but needs specific evidence, scope clarity, or timing review before a decision.
+
+When communicating approval, explain what changes. A promoted employee should know the new title, effective date, compensation communication path, and the expectations that now apply. Promotion is recognition, but it is also a new bar.
+
+When communicating denial or deferral, be direct and kind. Do not blame an unnamed committee. Say what evidence was missing and what the next review point is. A useful message sounds like: "The packet showed strong current-level performance, but not enough cross-team ownership for the next level. The next evidence target is leading the billing workflow decision across Product, Engineering, and Customer Success by the September cycle."
+
+## Fairness Checks
+
+Before submitting a packet, ask whether the employee had comparable opportunity to produce evidence. Remote employees, quieter employees, employees in operational roles, and employees returning from leave may produce less visible evidence even when their impact is strong. Managers are responsible for seeing the work, not only rewarding self-promotion.
+
+Also check whether the promotion solves the right problem. If the real issue is compensation, workload, unclear title architecture, or retention panic, promotion may be the wrong tool. People Operations and Finance can help decide whether another action is more appropriate.

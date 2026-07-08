@@ -1,29 +1,77 @@
-# Employee Recognition
+---
+last_updated: 2025-04-06
+corpus: manager_playbook
+audience: manager
+---
 
-In 2024, we ran an employee engagement survey and an area we discovered needs improvement is our approach to employee recognition. Employees scored the statement "the recognition I receive is commensurate with the work I do" an average 8.2, and "the work I do is valued and appreciated" at 8.1. While not dire, the scores were markedly lower than other surveyed areas, and they indicate that leaders at the company can do more to ensure our teams are feeling seen and their work appreciated. 
+# Recognition
 
-## Why recognize employees?
-Employees want good pay and benefits first; but they also want to be treated well, make impactful contributions through their work, and be appreciated for their efforts. Properly and consistently showing that you value your report's work raises team morale, retains your key employees, enhances productivity, improves work quality, and reduces employee stress and ultimately turnover. 
+## Recognition Philosophy
 
-## What do we value?
-When we recognize people, we should ensure that what we're recognizing is aligned with company and team values, or that we're rewarding work done in the service of overarching goals. If we don't consider values and goals, our recognition rings a little hollow. For example, you might appreciate on a personal level that your report is friendly. But examine what about their attitude reinforces or advances your team's goals, and focus your recognition there.
+Recognition at NovaOps should make good work visible and repeatable. It is not only for dramatic launches. Quiet operational work, thoughtful customer handling, clean incident response, mentoring, and risk prevention all deserve recognition when they create real value.
 
-We have some undeniable company values. Technical competency and excellence is at the top of the list. We value employees who are diligent, clever, and highly skilled. We value self-reliance & autonomy, and the execution of work without oversight and correction is a marker of success. We also value curiosity and learning. It's rewarded, culturally, to ask for not just an answer to a question, but an explanation of why and how the answer came to be.
+Managers should recognize both outcomes and behaviors. If you praise only heroics, you will get more heroics. If you praise clarity, preparation, customer empathy, and reliable follow-through, you will get more of those.
 
-You should define team values, as well, and recognize your reports' achievements that reflect your team values. On People Ops team, we value personal connection. So we share appreciation with each other when our efforts toward relationship building result in specific achievements. That might not matter on another team where cross-team connections aren't front of mind, but it's vital on our team to build & maintain working relationships across the company.
+## Everyday Recognition
 
-## What to say?
-Sometimes we neglect to recognize achievements because we don't know what to say. There's a simple template: 
-- Say 'thank you' or 'great job'! "Thank you, Andrea" is powerful in its directness.
-- Name specifically what your report achieved.
-- Explain how you felt about their achievement and how it had a positive impact.
+Use Slack for public recognition when the employee is comfortable being named publicly. Be specific: what happened, who benefited, and why it mattered. A message that says great job is kind but less useful than a message that says Lina resolved the Webex license issue before the customer onboarding call and documented the fix so Sales can avoid repeat escalations.
 
-## Opportunities for recognition
-- Speak at the peer appreciation session at the meet-up. Don't sign up just for the sake of it. Make sure you have a legitimate reason and are referring to specific high-quality work when recognizing your employee.
-- Volunteer as team lead to highlight your teams' achievements at meet-up or cross-departmental team calls like the Programmers or Designers hangouts. Give a short talk about the great work your team has been doing, highlight the individuals who made it happen, and offer your appreciation.
-- Give a shout out in the People Ops Kudos Chat. Again, refer to something specific your report did instead of offering vague congratulations or gratitude.
-- Use your auto check-ins and team heartbeat. If you had a particularly positive interaction during the course of your day, recognize that in your daily check-in. And heartbeats are a deep dive into our cycle work. Take the opportunity to attribute not only your report's work, but also to explain the positive impact it had on the team, products, or company.
-- Share private notes. Public recognition is a great way to highlight your report's great work, but sometimes a quick private note is just as valuable to the person on the receiving end. When you notice something great, shoot them a ping to name what you saw and say 'thanks!' or 'nice work on this!'.
-- Come up with a team-specific way to recognize each other. Maybe you have a quarterly team call where you could set aside some time to appreciate each others work. Engage the people on your team to make recognition part of your team culture. 
+Private recognition is just as important. Some employees dislike public attention. Others do work that involves confidential customer or employee details. A direct note or 1:1 acknowledgment can carry more weight.
 
-If yo have ideas for what we can do at the company level to improve our public recognition practices, please share them with People Ops!
+## Awards and Gifts
+
+Managers may approve spot recognition up to USD 250 for meaningful contributions, subject to local tax and payroll rules. Anything above USD 250 requires department leader and Finance approval. Recognition should not become a substitute for fair compensation, promotion, or staffing.
+
+Team celebrations are encouraged after major milestones. Keep them inclusive for remote employees and mindful of time zones. If a celebration creates a reimbursable expense, follow the Finance approval path.
+
+## Fairness
+
+Track who gets recognized. If the same visible roles receive all praise, look for hidden work by QA, Support, IT, HR, Finance, and operations. Recognition should not depend on who works closest to the manager's calendar.
+
+Recognition also should not become a popularity contest. Check whether part-time, remote, recently returned from leave, or quieter employees are being seen. If strong work is invisible, the manager's job is to improve the signal, not to wait for the employee to advertise it.
+
+## What To Recognize
+
+Recognize work that NovaOps wants repeated. That includes customer trust, risk prevention, clear writing, strong judgment, mentoring, clean handoffs, operational reliability, and thoughtful speed. Dramatic launches are easy to recognize. Managers must also notice the work that prevents drama.
+
+Examples:
+
+- Engineering: an engineer writes a rollback plan before a risky AWS change, catches a production issue in review, or improves tests so future changes are safer.
+- Customer Success: a CSM handles a renewal concern clearly, updates Salesforce so the next teammate has context, or turns a repeated customer complaint into a useful Product signal.
+- Sales: an Account Executive qualifies a deal honestly instead of forcing a poor-fit customer into the pipeline.
+- IT: Lina Novak resolves a Webex license blocker and documents the path so the next onboarding case is faster.
+- HR: Sara Cohen catches a contractor paperwork issue before access is provisioned too broadly.
+- Finance: Tom Baker identifies recurring tool spend before it becomes a surprise renewal problem.
+- QA: a QA engineer explains release risk in a way that helps Product and Engineering make a better decision.
+
+Recognition should name the behavior and the impact. "Great work" is kind. "Your Jira risk note helped Engineering avoid a bad release decision" teaches the team what good work looks like.
+
+## Public, Private, and Sensitive Recognition
+
+Public recognition belongs in Slack or a team meeting when the employee is comfortable with it and the work is not confidential. Private recognition belongs in 1:1s, direct messages, or review notes. Sensitive recognition belongs only in private. Do not publicly describe HR cases, security incidents, customer confidential details, medical leave support, compensation work, or private performance recovery.
+
+Ask if you are unsure. Some employees enjoy public praise; others find it uncomfortable. Recognition that embarrasses someone is not successful just because the manager meant well.
+
+Remote employees need intentional visibility. A person in another time zone may do excellent work while the manager is offline. Managers should look at work systems, not only live meetings: Jira, GitHub, Salesforce, BambooHR workflows, access tickets, customer notes, and written decisions.
+
+## Spot Awards and Approval
+
+Managers may approve spot recognition up to USD 250 for meaningful contributions, subject to local tax and payroll rules. Above USD 250, get department leader and Finance approval before announcing the award. Do not promise a gift card, bonus, trip, or team meal before checking the approval path.
+
+Spot awards should be tied to specific impact. They are appropriate for unusual effort, cross-team help, customer trust, incident response, mentorship, or operational risk reduction. They are not appropriate as a substitute for overtime rules, staffing, promotion, or fair compensation.
+
+If recognition creates an expense, submit it through the normal Finance process. If the recognition involves a team event, make it remote-inclusive. A lunch for one office while remote employees receive nothing sends the wrong message.
+
+## Recognition and Performance
+
+Recognition is not performance management, but it supports performance clarity. Specific praise helps employees know what to repeat. It also creates evidence for reviews and promotion packets when the recognition reflects sustained impact.
+
+Do not use recognition to soften serious feedback. If an employee is missing expectations, give direct feedback. A praise sandwich that hides the real message is confusing. You can recognize effort and still be clear that a performance gap remains.
+
+Do not recognize heroics caused by bad planning without also fixing the planning. If a team repeatedly works nights to hit deadlines, public praise alone teaches burnout. Recognize the effort if appropriate, then change scope, staffing, or decision timing.
+
+## Fairness Review
+
+Every quarter, managers should glance at who received meaningful recognition. Look for patterns. Are only senior people named? Are only customer-facing wins visible? Are HR, IT, Finance, QA, and operations invisible because their work prevents problems rather than creates announcements? Are employees in Israel, Germany, the United Kingdom, and the United States all seen?
+
+If recognition is uneven, improve your observation system. Ask peer managers what quiet work mattered. Review Jira and GitHub. Look at Salesforce cleanup, support escalations, onboarding workflows, access review improvements, renewal risk, and incident prevention. The point is not to manufacture praise. The point is to see real work that might otherwise disappear.

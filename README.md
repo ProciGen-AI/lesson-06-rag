@@ -133,8 +133,8 @@ world and document set the final project's assistant answers questions over;
 the index you build here is the project's first retrieval layer.
 `code/data/manager_playbook/` is the second, **managers-only** corpus — 17
 files on 1:1s, feedback, hiring, and performance management — used by
-`rag_by_role.py`. (Both are adapted from Basecamp's public employee handbook and
-manager playbook.)
+`rag_by_role.py`. Both corpora are original synthetic NovaOps documents written
+for this course.
 
 ## Build it yourself
 

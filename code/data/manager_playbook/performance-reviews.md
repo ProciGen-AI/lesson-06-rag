@@ -1,45 +1,83 @@
+---
+last_updated: 2026-01-07
+corpus: manager_playbook
+audience: manager
+---
+
 # Performance Reviews
 
-Managers at 37signals are expected to continually and actively assess job performance. Moreover you're expected to communicate those assessments to your report in their annual review time and also throughout the year during your regular course of work. To neglect that duty puts your report and your team at a disadvantage. Performance problems linger too long, which causes drag on the team and gives your report an unrealistic perception of the quality of their work. On the more positive end of the spectrum, performance successes go unnoticed and unrecognized.
+## Review Cycles
 
-Your formal touch points for performance assessments are well defined:
-1. 3-month and 6-month performance reviews
-2. 1-year Hell Yeah & performance review
-3. 2-year L1>L2 or L2>L3 requirement
-4. Annual performance reviews
+NovaOps runs formal performance reviews twice per year, in February and August. The review is recorded in BambooHR and should summarize the employee's impact, strengths, growth areas, and expectations for the next period. Promotion cycles happen shortly after, in March and September, so review evidence often informs promotion discussions.
 
-Everyone, no matter their level, receives 3-6-12 month performance reviews during their first year of employment. Junior (L1) through Senior (L3) contributors are required to receive recurring annual performance reviews. Managers may exercise their discretion on conducting annual reviews for Leads (L4) and Principals (L5). 
+A review should not be the first time an employee hears important feedback. If the review contains a serious concern, the manager should be able to point to earlier conversations.
 
-Managers have three opportunities in a new hire's first year to formally address performance. You should treat those three points with care and gravity. At the 3-month mark, 6-month mark, and finally at the year mark, managers are required to create comprehensive, supported, & documented assessments. 
+The review cycle is a forcing function for clarity, not the only time performance management happens. Managers should arrive at February and August with a live understanding of the employee's work, not a last-minute search through Slack. The best reviews feel like a careful summary of conversations already underway.
 
-Some process notes: Your manager assessment form will be shared with you by People Ops via to-do about a week prior to your report's anniversary. People Ops will also assign your report their own form in which they'll be invited to reflect on their work and job satisfaction. Once you’ve both completed your forms, notify People Ops so they can review and distribute them. People Ops will send you and your report the review forms the day before your scheduled call, and you’ll take it from there.
+February reviews typically look back at the prior second half of the year and set expectations for the first half of the new year. August reviews typically look back at the first half of the year and set expectations for the second half. Promotion proposals in March and September may use review evidence, but a review is not automatically a promotion packet.
 
-When completing your assessment, you should be thinking about:
-1. The work done, both the quantity and impact. Did your report do high quality work, and did they pull their weight on the team?
-2. The skill level shown in their work. Is your report technically proficient, do they demonstrate good judgment, and are they adaptable to your team's nuanced ways of working?
-3. The amount of correction needed, material and superficial. If you go back and look at your report's projects, how much red pen is there? Did you provide the right amount of oversight, and how much of you or another teammate is represented in the final work product?
-4. Engagement with work and team. Is your report communicative, transparent, and helpful? Is it easy and natural to work with them? Do they run towards problems?
-5. Coachability. Is your report receptive to feedback, and do they internalize it and learn from it so as not to repeat mistakes? Do they seek out feedback, and do they offer helpful feedback to others when appropriate?
+New hires should receive onboarding feedback before their first formal cycle. If an employee starts close to a review deadline, People Operations may tell the manager to write a lighter check-in instead of a full review. Contractors do not go through the employee review cycle unless their contract or People Operations workflow says otherwise.
 
-These questions are a reframing of the expectations in your career progression models, but phrased this way to help managers think critically about what you're assessing. 
+## Steps
 
-Managers are expected to support performance assessments with a deep review of the work your report has completed. Links to PRs, Basecamp project work, or other documentation should be included in your review form.
+First, the employee writes a self-reflection. Ask them to describe outcomes, examples of collaboration, customer or operational impact, and areas they want to improve. Second, the manager gathers evidence from work systems such as Jira, GitHub, Salesforce, customer notes, project documents, and prior 1:1s. Third, the manager drafts the review in BambooHR.
 
-You should also solicit peer feedback from the people who work most closely with your report. If you manage a programmer, ask their design counterpart what it's been like working with them. Please devise 2-3 specific questions when asking for peer feedback. You shouldn't be asking colleagues for a long vague assessment, but a targeted evaluation of specific qualities that they feel qualified to speak to. Some examples of questions you might use:
-1. In the past 6 weeks, what is one specific example of when [report] made your work easier or more effective? This forces recency and highlights your report's strengths & successes.
-2. What is 1 thing [report] could do differently that would improve your ability to work with them? This forces prioritization (1 thing) and highlights areas for development.
-3. If you were to work with [report] again next [cycle/project], what would you want them to do more of or less of? This forces orienting for future work and highlights practical feedback, both positive and corrective.
+People Operations provides the review template and deadlines. Department leaders run calibration to check consistency across teams. Calibration is not a place to trade favors; it is a place to make sure similar evidence is treated similarly.
 
-Remind the teammates you're asking for feedback to be candid. Never share their negative feedback verbatim, but summarized and as anonymized as possible.
+Managers should begin evidence gathering at least two weeks before the draft deadline. Do not ask peers for vague character references. Ask targeted questions tied to the role. For an engineer, ask about code review quality, reliability judgment, test discipline, and collaboration. For a Customer Success employee, ask about customer trust, Salesforce hygiene, escalation judgment, and renewal support. For HR, IT, Finance, or Ops roles, ask about process reliability, confidentiality, cycle time, and risk reduction.
 
-At the 3-month mark, you will not have much work product to review or data to inform your assessment. Work with what you have, and try to draw conclusions about your report's grasp of the skills expected based on the information you have. When your report reaches the 6-month mark, they should be meeting most, if not all, level expectations.
+The self-reflection should not be a writing contest. Some employees write polished narratives; others write plain bullet points. Judge the evidence, not the prose. If a self-review omits important work the manager knows about, add it. If it claims impact the manager cannot verify, ask follow-up questions.
 
-At the 1-year mark, your report should meet all level expectations and ideally exceed in a few areas. Not only will you complete a performance review form at this time, you'll be asked to commit to retaining your report on the team. You should be enthusiastic about the contributions they've made so far, their presence as a member of the team, and the potential you see for their future work. The bar for remaining on the team at the 1-year mark isn’t just passable performance, it’s hell yeah! You're excited to have them on the team in their current state, and you can't wait to see what they do next.
+The manager draft should include:
 
-Managers meet with People Ops after conducting their report's 1-year performance review. The purpose of the meeting is to ensure the bar for hell yeah has been met and documented, and that the employee is on track to succeed as their performance review cadence drops to just once per year.
+- A short impact summary.
+- Strengths with concrete examples.
+- Growth areas with concrete examples.
+- Current performance state or narrative, depending on the template.
+- Expectations for the next period.
+- Any support the manager or company will provide.
+- Links or references to work evidence where appropriate.
 
-In addition to reviewing past performance and evaluating future potential, performance reviews are a time to set goals for the coming months. Your report should set at least 2 attainable goals that build on work they've done thus far. They should also set 1-2 stretch goals that would be impressive to achieve, but are not instrumental to team operations or output. Discuss your report's ideas for goals at their performance review, give your input, and then document the outcomes so you may follow up throughout the year.
+Do not paste confidential customer data, medical details, protected-leave details, private Slack messages, or raw peer comments into the review. Summarize relevant work evidence respectfully.
 
-You can try using AI when preparing your annual reviews. You should document any crucial feedback you've given your report & the outcomes, 1-1 notes, and general observations throughout the year, then AI can help you analyze your notes for patterns you might have lost sight of from being close to the work. Ask AI to identify themes, flag inconsistencies, or surface areas of growth or concern that appear repeatedly. This exercise isn’t a substitute for your own judgment, though. You know your report and their work better than any tool can, but AI can act as a useful lens, helping you write a more complete and balanced assessment than memory alone would produce.
+## Evidence by Function
 
-Performance review documents are stored in 2 places: your report's Bamboo profile, so they may reflect back on them at any time, and in the project you share with People Ops, so you may also reflect back, and also add notes, goals, and follow-ups to refer back to throughout the year.
+Engineering evidence may include GitHub pull requests, incident follow-up, test coverage, architecture decisions, Jira delivery, production quality, and cost or security awareness. A high volume of code is not enough if the work creates review churn or operational risk.
+
+Product and Design evidence may include customer problem framing, decision quality, research synthesis, design-system contribution, Jira clarity, cross-functional alignment, and shipped workflow improvements. Beautiful artifacts are not enough if they do not help Engineering build or customers succeed.
+
+Sales and Customer Success evidence may include Salesforce hygiene, renewal outcomes, customer communication, forecast reliability, escalation quality, and collaboration with Product or Support. Revenue numbers matter, but so does whether the employee created avoidable customer confusion or cleaned up hidden risk.
+
+HR, IT, Finance, and operations evidence may include cycle time, audit readiness, access safety, onboarding quality, procurement judgment, cost control, confidentiality, and fewer repeated questions. Quiet prevention is valid performance evidence even when it does not look dramatic.
+
+## The Conversation
+
+Schedule the review conversation over Webex unless you are co-located and both prefer in person. Give the employee time to read the review. Discuss the main themes, not every sentence. Leave space for disagreement and questions. If the employee identifies missing evidence, consider it seriously and correct the record when appropriate.
+
+End with clear expectations for the next period. If the employee is on track, name how they can continue growing. If they are at risk, do not soften the message; move to the formal process with People Operations.
+
+Send the review early enough that the employee can read it before the meeting. A manager who reveals a long review live on Webex forces the employee to process and respond at the same time. For most reviews, 24 hours of reading time is reasonable.
+
+Start the conversation with the headline. If the review is positive, say so. If it contains serious concerns, say that directly. Do not make the employee decode tone. Then discuss evidence, themes, and next steps. The employee may disagree with part of the review. Listen for missing evidence or genuine misunderstanding, but do not turn the meeting into a negotiation over every adjective.
+
+If the review connects to promotion readiness, be precise. "You are close" should come with the missing evidence. "Not this cycle" should come with the reason. Do not promise a promotion in a review conversation before calibration and Finance review.
+
+If the review moves an employee toward At Risk, involve People Operations before the conversation. A formal review can contain direct feedback, but a correction plan or job-jeopardy message should follow the process in [underperformance and terminations](underperformance-and-terminations.md).
+
+## Calibration
+
+Calibration compares evidence across teams and managers. It helps prevent a manager from overrating someone because they are easy to work with, underrating someone because they are quiet, or treating one department's visible wins as more valuable than another department's operational prevention.
+
+Bring evidence, not advocacy theater. A manager should be able to say, "Here are the outcomes, here is the level expectation, here is where the evidence meets or misses it." If calibration changes the review, tell the employee the final version, not the internal debate.
+
+People Operations may ask a manager to rewrite a review if it is too vague, too personal, unsupported by evidence, or inconsistent with prior feedback. That is part of process quality. It is not an insult to the manager.
+
+## Documentation
+
+Final reviews live in BambooHR. Do not keep alternate private review files. Do not include medical details, protected leave details, or rumors. Reviews should be specific enough to be useful six months later.
+
+Reviews should be written for the employee, the manager, and a future reviewer who needs to understand the record. Avoid jokes, sarcasm, vague praise, and coded criticism. "Needs executive presence" is less useful than "in cross-functional planning, the employee did not state risks or decision needs clearly enough for Engineering and Customer Success to act."
+
+If the employee adds a response in BambooHR, acknowledge it. You do not need to agree with every point, but you should correct factual errors and document any agreed follow-up. If the review identifies manager support as a need, the manager should treat that as a commitment, not decorative language.
+
+After the review, put follow-up actions into the right operating system. Growth tasks may live in a 1:1 note. Project goals may live in Jira or Salesforce. HR-sensitive commitments should stay in BambooHR. The review itself should not become the only place where important work is tracked.

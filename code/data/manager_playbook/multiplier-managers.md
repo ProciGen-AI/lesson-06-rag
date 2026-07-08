@@ -1,32 +1,92 @@
+---
+last_updated: 2025-12-17
+corpus: manager_playbook
+audience: manager
+---
+
 # Multiplier Managers
 
-Managers at 37signals are in place because teams and teammates need guidance. They need to know when they're doing well and when they need to improve. We expect all employees to operate as managers of one, but it's difficult for even the best managers of one to objectively assess and calibrate their own performance. Related, most teams need oversight to make sure they're steering in a direction that aligns with company goals and with what other teams are doing, both tactically and in terms of skill level.
+## The Idea
 
-But responsibility to the employee and team ops are not the only reason we employ managers. Your role also directly impacts how well 37signals ships software. When we manage well, the business compounds. When we don't manage, the business degrades. Subtly at first, then all at once.
+A multiplier manager increases the quality and quantity of good decisions the team can make without them in the room. The opposite is a manager who becomes the bottleneck for every choice, rescues every project personally, or keeps context in their head so people have to ask repeatedly.
 
-## Good Managers Retain Good Employees
-There's an old saying: people don't quit jobs, they quit bosses. When you give your report quality feedback, address performance issues directly, create pathways for growth, and cultivate trust, you create an environment that promotes retention of our strongest contributors. 
+NovaOps is remote-first, so multiplier behavior matters. People cannot rely on hallway updates or reading the manager's mood. They need context, decision rights, and visible priorities.
 
-And those contributors in turn bring irreplaceable institutional knowledge, product context, and a sense of stability and continuity. As we know, backfilling a role is expensive and slow. Reducing turnover not only protects the individuals on your team from upheaval, it protects the momentum necessary for successful product development. To be clear: retention is not purely sentimental; it's necessary for operational stability.
+A multiplier manager is not simply a nice manager or a busy manager. The test is whether the team becomes more capable over time. If the manager takes a week off, does the team still know the priorities? Can employees make reasonable decisions? Do customer commitments keep moving? Do approvals and risks have owners? If the answer is no, the manager may be central, but they are not multiplying the team.
 
-## Good Managers Impact Product Quality
-Managers at 37signals are expected to be clear in their expectations. A big part of the job is communicating what "excellent" is, in its many applications. Standards begin to erode when you avoid clarity and expectations are unclear. Judgment declines, the boundaries of ownership and accountability blur, and unchecked apathy seeps into technical work. 
+## Create Leverage
 
-When you're explicit with what the job demands, your report comes to work with a clear understanding of what's expected of them and their role in the team and company. Their performance is measured against our concrete progression framework, ownership & accountability standards are fair and consistently applied, and most importantly, quality standards are clearly stated. Underperformance is not just something to monitor for at the individual level, but at the team level (or even company level). Good managers are good at "quality control" ensuring team standards aren't being affected by a single contributor.
+Write down the strategy, not just the task list. If a team understands why a goal matters, it can make better tradeoffs when reality changes. Use Jira for planned work, GitHub for engineering review, Salesforce for customer health, and the wiki for decisions that need to outlive a Slack thread.
 
-## Good Managers Build Scale
-Managers cannot and should not be responsible for every major decision on their team. If every decision flows up, you become a bottleneck. To build scale, good managers are required to teach their report how to make decisions, and how to develop the judgment that we expect of all employees.
+Delegate outcomes, not fragments. A useful delegation names the result, constraints, deadline, decision rights, and check-in rhythm. If you delegate only the next tiny step, you keep the real work for yourself.
 
-When you coach your report to solve problems without you, they learn how to think, not just what to do (or what you would do). Decision making scales, you spend less time unblocking your report, and you both can move faster and productivity and capability multiplies.
+Remove blockers that require your role. That may mean getting Finance approval, clarifying priority with another department, negotiating scope, or asking IT to review access. Do not confuse removing blockers with doing the employee's job for them.
 
-## Good Manager Reduce Risk
-As managers, you’ll probably have a difficult conversation or two with your report about their performance. There are a couple chapters in this playbook addressing those, but here we're discussing the fact that avoiding those conversations and the related documentation and escalation creates risk to the company and our quality standards.
+Leverage begins with clear context. A team cannot make good decisions from slogans. If the priority is to reduce onboarding friction for Customer Success, say which friction matters: Webex licensing, Salesforce access, SupportDesk visibility, customer-shadowing schedules, or BambooHR task completion. If the priority is Engineering reliability, say whether the focus is AWS cost, incident response, deployment risk, or test quality.
 
-Documenting performance concerns early and every time reduces the chance for legal or compliance problems down the line. Please escalate issues to People Ops when you find yourself documenting problems more than once, before you reach out to your report to discuss.
+Good delegation names the outcome, constraints, decision rights, review points, and escalation path. For example: "Own the Jira plan for the billing import cleanup. Keep the scope inside the existing Salesforce integration. You can decide ticket order, but escalate any AWS permission change or customer-facing delay. We will review risk on Wednesday." That is different from "Can you help with billing stuff?"
 
-Good managers know that proper performance management is risk mitigation. Not just legally, but to the technical quality standards we all commit to as employees.
+Managers create leverage when they remove organizational friction that only they can remove. Liam Oconnor may need to clarify Sales priority before Daniel Cohen can clean up Salesforce reporting. Yael Romano may need to decide which customer escalation takes precedence before Rachel Stein can prepare the right account update. Amir Haddad may need to approve a safe access pattern before Omar Weiss can grant AWS permissions. The manager should unlock the path, then let the owner work.
 
-## Good Managers Cultivate Culture
-Values written on a page do not define culture, but the behaviors of the people within the organization do. Managers' behaviors carry more weight, like it or not. The behaviors you as leaders reward becomes aspirational, and what you ignore becomes permissible. We enjoy a culture built on high standards and high degrees of trust, autonomy, and ownership. To retain what we have, managers need to keep those cultural touch points front of mind and enforce them with rigor.
+## Decision Rights
 
-To that end, keep your energy positive, especially when communicating a choice or direction you disagree with. Your demeanor can significantly impact your report's morale and outlook. Openly expressing frustration or discontent with company decisions creates a negative atmosphere and undermines team morale.
+Decision rights should be explicit. A report should know which decisions they own, which decisions they recommend, and which decisions require manager approval. Without this clarity, cautious employees wait too long and confident employees may overstep.
+
+Use three categories:
+
+- Own: the employee decides and informs the manager.
+- Recommend: the employee investigates options and recommends a decision.
+- Escalate: the employee must involve the manager or another function before acting.
+
+Examples: a Senior QA Engineer may own the regression approach for a normal release, recommend whether to delay a high-risk release, and escalate if customer data exposure is suspected. A Customer Success Manager may own routine customer follow-up, recommend a renewal-risk plan, and escalate a contractual commitment. An engineer may own a low-risk implementation, recommend an architectural tradeoff, and escalate AWS admin access.
+
+Decision rights should grow with level and trust. Do not give someone a larger title while keeping every real decision in the manager's hands. That creates fake seniority.
+
+## Develop Judgment
+
+When someone asks for an answer, sometimes give the answer. Other times, ask what options they see, what risk matters, and what they recommend. The goal is not to make every conversation a puzzle. The goal is to build the muscle of judgment.
+
+Let people own visible work before they are perfect. Support them with coaching and review. If you protect every important project from developing employees, you also prevent them from becoming senior.
+
+Judgment develops through real decisions with feedback. Let an employee write the customer response, draft the technical plan, lead the Webex agenda, propose the access workflow, or run the Jira planning discussion. Review the work before the risk becomes unacceptable, but do not remove all risk and then expect growth.
+
+Use debriefs. After a customer escalation, incident, hiring decision, failed handoff, or delayed project, ask: what signal did we miss, what tradeoff did we make, what would we do sooner next time, and what should be documented. A debrief turns experience into reusable judgment.
+
+Be careful with rescue. If a manager jumps in every time a report struggles, the report learns that struggle means replacement. If a manager never helps, the report learns that asking is unsafe. The multiplier path is support with ownership: clarify the goal, ask for options, give feedback, and let the employee carry the work where the risk allows.
+
+## Scaling Communication
+
+A multiplier manager uses written communication to reduce repeated explanation. Team charters, decision records, onboarding notes, escalation paths, and operating checklists are not bureaucracy when they prevent confusion. They let new employees ramp, remote teammates catch up, and cross-functional partners understand how to work with the team.
+
+Use the right place for the right communication. Jira is for planned work and dependencies. GitHub is for code and technical review. Salesforce is for customer and revenue context. BambooHR is for HR workflows. The wiki is for durable decisions. Slack is for coordination and quick questions. If the team cannot find an answer later, the answer probably lived in the wrong place.
+
+## Department Examples
+
+In Engineering, a multiplier manager does not review every line personally. They create review standards, assign ownership, make architectural context visible, and help engineers understand production risk. They notice when AWS or GitHub access is blocking work and route it correctly.
+
+In Sales, a multiplier manager does not personally rescue every deal. They clarify qualification standards, coach account strategy, maintain Salesforce hygiene expectations, and decide escalation rules. They help Account Executives and Sales Operations learn which customer commitments require approval.
+
+In Customer Success, a multiplier manager turns repeated customer pain into product signal. They help the team distinguish a one-off support issue from a workflow problem, and they make escalation paths clear before a renewal is at risk.
+
+In HR, IT, Finance, and operations, a multiplier manager improves the system so fewer people need special help. Better onboarding checklists, access review routines, procurement thresholds, and renewal calendars are all multiplier work when they reduce repeated manual rescue.
+
+## Watch for False Leverage
+
+A manager who works nights to fix every problem may look heroic while creating a fragile team. A manager who attends every meeting may feel informed while slowing decisions. Real leverage leaves the system stronger after the manager steps away.
+
+False leverage often feels productive in the moment. Examples include:
+
+- Personally rewriting every customer email instead of coaching the pattern.
+- Joining every technical design meeting because trust is low.
+- Creating a private spreadsheet that only the manager understands.
+- Approving spend or access informally to move faster.
+- Praising weekend heroics instead of fixing planning.
+- Keeping high-risk work away from developing employees forever.
+
+These habits may produce short-term speed, but they weaken the organization. The manager becomes a single point of failure, employees stop developing judgment, and the team learns that hidden effort matters more than clear systems.
+
+## Measuring Multiplier Impact
+
+Multiplier impact shows up in fewer repeated questions, faster onboarding, better decisions at lower levels, cleaner handoffs, stronger peer coaching, and less manager rescue. It also shows up when the manager can be absent without the team freezing.
+
+Ask periodically: what decisions still come to me that should not, what context do people repeatedly ask for, what work only I know how to do, and which employee is ready for more ownership. Then fix one of those. Multiplying is not a personality trait; it is a set of habits that make the team more capable.

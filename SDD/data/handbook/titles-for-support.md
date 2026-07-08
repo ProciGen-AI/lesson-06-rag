@@ -1,38 +1,234 @@
-# Titles for Customer Support
+---
+last_updated: 2024-06-05
+corpus: handbook
+audience: all
+---
 
-| Category | Junior Customer Support Rep (L1) | Customer Support Rep (L2) | Senior Customer Support Rep (L3) | Lead Customer Support Rep (L4) | Principal Customer Support Rep (L5) |
-| ----- | ----- | ----- | ----- | ----- | ----- |
-| **Skill** |  |  |  |  |  |
-| *Technical* | Communicates basic product knowledge to customers well and with enthusiasm. | Confident in product knowledge and well versed in one product. Communicates knowledge to customers well and with enthusiasm, and able to adapt messaging to the situation. | Proficient in one or more products. Communicates knowledge to customers well and with enthusiasm, and able to adapt messaging to the situation. | Proficient in multiple products. Communicates knowledge to customers well and with enthusiasm, and able to adapt messaging to the situation. | Expert in multiple products. Communicates knowledge to customers well and with enthusiasm, and able to adapt messaging to the situation. |
-| *Technical* | Customer emails adhere to the style guide with occasional need for redirection. Able to work independently on routine emails, and doesn't need help answering commonly asked questions. | Customer emails adhere to the style guide with little need for redirection. Able to work independently on all emails or calls. | Customer emails adhere to the style guide with no need for redirection.Able to work independently on all emails or calls, and doesn't need help answering questions. | Customer emails adhere to the style guide, and contributes to the style guide and snippets repo. Able to work independently on all emails and calls, and can handle difficult cases and frustrated customers. | Customer emails adhere to the style guide, and contributes to the style guide and snippets repo. Able to work independently on all emails and calls, and can handle the most difficult cases and frustrated customers. |
-| *Tech and Tooling* | Demonstrated good technical understanding of most of the software systems and tools needed in daily work. Technical knowledge of the products is limited and developing. | Demonstrated technical understanding of the software systems and tools used in your daily work. Good technical understanding of one product. | Able to diagnose and escalate low-level technical issues appropriately. Good technical understanding of all products. | Able to diagnose and escalate most technical issue appropriately. Capable of correcting low-level customer technical issues independently, with support from on-call. | Able to diagnose and escalate all technical issues appropriately. Capable of correcting many customer technical issues independently. |
-| *Scope* | Works primarily on customer communication; no project work or limited involvement. | Participates in project work with oversight from a senior teammate. | Works independently on small projects and are a reliable contributor to larger projects. | Elevates team and company standards through developing new processes, procedures, and effective communication. Major contributor on special project work. | Capable of conceptualizing and executing large special projects and working with a team to complete them. |
-| *Judgment* | Capable of managing individual to-dos. Pitches in on project work when asked, with oversight. | Manages daily workflow and to-dos without oversight. | Manages daily workflow and special projects with minimal oversight or approval. Good sense for when to cut scope to deliver projects on time, within appetite. | Strong ability to set scope and manage large ongoing projects with minimal oversight or approval. Sought out for advice by teammates and outside the team. | Ensures robust and effective best practices are understood and followed across the team and organization. Has a wide range of focus and finds opportunities to make improvements to work, without it being assigned. |
-| *Leadership* | Can articulate thoughts clearly, listen actively, and problem solve with others. Works on actively building strong relationships within the team. | Identifies and addresses the needs of the team through creating tools, documentation, and process that improve team effectiveness, reduce friction, and strengthen shared resources. Models humility and ownership in service of the team’s long-term success. | Provides guidance to teammates, and can act as an unofficial mentor to new L1-L2 Representatives. Works well with anyone. Navigates difficult situations directly and with ease. | Acts as a mentor and coach, and provides regular, useful, constructive feedback to teammates. People outside the team seek their guidance. A leader on the team, technically and culturally. | A leader at the company, technically and culturally. A consummate team player able to contribute across teams. |
-| **Engagement** |  |  |  |  |  |
-| *Ownership - Manager of One* | Manages the individual steps to arrive to solutions once assigned work. | Sets their own direction once assigned work. Asks questions but does not need status checks outside of email reviews. | Sets their own direction and works with little to no oversight or help. Conceptualizes new work to be done, steps to get there, and then executes the steps to complete it. | Capable of setting small team direction. Manages projects and resources, requiring little to no redirection or input from leadership. | Capable of setting team direction. Manages projects and resources, requiring little to no redirection or input from leadership. |
-| *Communication* | Communicates well on team calls and in Basecamp check-ins. Asks questions of more senior teammates after doing research to find answers. | Attempts to unblock themselves but asks for help when needed. Communicates well within the team structure, sharing knowledge and bringing in more experienced teammates when needed. | Attempts to unblock themselves but asks for help when needed. Communicates well within the team structure, sharing knowledge and bringing in more experienced teammates when needed. | Acts as a representative to the company, weighing in on larger discussions and making recommendations. Rarely need help unblocking themselves, and acts as a resource for others. | Demonstrate project management and communication best practices. Ensures leadership is informed on team progress. |
-| *Planning* | Able to plan individual daily tasks with little feedback or oversight. Able to call attention to opportunities for small improvements to projects and product. | Able to plan individual daily tasks with minimal oversight. Routinely calls attention to opportunities for small improvements to projects and product. | Plans individual projects effectively with little oversight. Contributes to cycle planning. Identifies work without having it assigned and without asking others what's important. Able to pitch projects to the team and explain why it's important and should be prioritized. | Key contributor to cycle planning. Able to plan and execute large projects. | Able to plan and execute large projects while keeping team and company strategy in mind. |
-| *Flexibility* | Has some points of view about technical solutions and best practices, but mostly observes and learns from the more senior members of your team. | Demonstrated willingness to express a viewpoint and opinion, and able to disagree and commit. | Demonstrated strong points of view about technical approaches and solutions that are rooted in experience. Willing to express a viewpoint and opinion, and also able to disagree and commit. | Strong points of view rooted in experience, technical expertise, and industry best practices. Expresses opinions confidently and effectively, and can balance recommendations with the larger needs of the team. | Demonstrated ability to think through problems and devise and apply novel solutions that are outside the box. |
-| *Trust* | Work is reviewed, and mistakes in quality and general approach do not repeat often. | Productive member of the team, able to contribute effectively to small projects. Work is reviewed with the occasional need for edits. | Fully productive member of the team, able to contribute to almost any project. Work doesn’t necessarily need to be reviewed, but general approach may be. | Able to contribute to any project and able to resolve almost any customer interaction. Work happens autonomously with no regular need for review. Work is almost always free of mistakes, and often helps others improve the quality of their work. | Significant contributor to problem resolution and code resolution; demonstrate consistent maturity and leadership. |
-| **Coachability** |  |  |  |  |  |
-| *Feedback* | Actively seeks feedback. Receives feedback with a positive attitude, and applies corrective feedback well. Hungry for growth & development. | Able to weigh in on larger discussions at the team level with helpful, relevant feedback. Receives feedback with a growth mindset. | Able to act as informal mentor, and provides helpful, direct, specific feedback to more junior teammates. | Sought by colleagues on and off the team for help with critical work or decisions. | You define team standards and guidance. You're consistently sought by colleagues across the company for assistance with critical work or decisions. |
+# Titles for Support
 
-# Titles for Customer Support Leadership
-| Category | Customer Support Manager (M1) | Senior Customer Support Manager (M2) | Head of Customer Support (M3) |
-| ----- | ----- | ----- | ----- |
-| **Skill** |  |  |  |
-| *Mastery* | Makes meaningful contributions to developing team service standards and requirements. Communicates service standards and requirements reliably and effectively to reports. | Defines and documents team service standards and requirements with approval from Head of Support. | Successfully supervises representatives that are answering customer inquiries over the phone and email. Through training and oversight, ensures customers have a positive, thorough, and consistent experience when contacting the company. |
-| *Mastery* | Maintains regular, productive communication with cohorts of 2-4 Reps. Acts as a coach and a resource for reports for improving their customer service skills & comms style, technical troubleshooting, and project advancement. | Maintains regular, productive communication with cohorts of 5+ Reps. Acts as a coach and a resource for reports for improving their customer service skills & comms style, technical troubleshooting, and project advancement. | Establishes and maintains effective mechanisms for gathering and measuring customer satisfaction, team efficiency, and team performance and sharing data in a useful way to internal stakeholders, executive leadership, and product development. |
-| *Mastery* | Oversees performance management for team of 2-4 reps. Runs 3/6/12 performance reviews, administers PIPs recommended by leadership, performs terminations recommended by leadership, onboards & trains new hires, recommends promotions, and effectively manages job performance lags. | Oversees performance management for team of 5+ reps. Runs 3/6/12 performance reviews, recommends and administers PIPs, recommends and performs terminations, onboards & trains new hires, recommends promotions, and effectively manages job performance lags. | Oversees performance management for CS Managers. Assists Managers with administering PIPs, performing terminations, onboarding & training new hires, recommending promotions, and managing performance lags. Able to act as ultimate authority for all team performance management and make accurate judgment calls that reflect the needs of the team & company. |
-| *Mastery* | Capable of shaping, pitching, and executing support projects that add value to team skills and tooling, team/company processes, and customer experience. | Capable of shaping, pitching, and executing large-scale, far-reaching support projects that add value to team skills and tooling, team/company processes, and customer experience. | Approves and maintains oversight and controls over Support projects that add value to team skills and tooling, team/company processes, and customer experience. |
-| *Tech and Tooling* | An expert in all existing software systems and tools needed in CS work. Can identify where existing tooling should be improved, proposes solutions, and oversees implementation. | Recommends, implements, and uses tech and tooling that provide meaningful insights into team performance and processes. | Proficient in Support stack, and uses technology appropriately to provide meaningful insights and to make recommendations. Makes informed, thoughtful decisions about new tools & services and communicates those to team/executive team as needed. |
-| *Scope* | Capable of devising and running cycle projects, taking them from concept to completion with minimal review or guidance. Strong track record of introducing significant improvements in CS systems. | Capable of running long term projects that substantially impact departments outside of Support. Manages critical work without oversight or approval. | Oversees all team project work with support from Managers. Able to act as ultimate authority on project management and able to make accurate judgment calls about project direction and goals that reflect the needs of the team & company. |
-| *Judgment* | Has accumulated sufficient experience to be consistently sought by peers, across teams, for advice. Improves existing professional standards for the team. Demonstrates curiosity, prioritizes work to serve the best interests of the team. Leaves documentation in a better place than they found it. | Defines professional standards for the team. Prioritizes work to serve the best interests of the company. | Has a wide range of focus and finds opportunities to make substantial improvements to the Support environment and how Support interfaces & influences other departments. Has a good sense for when and how to cut scope or change direction to deliver work on time and can communicate that effectively to Managers. |
-| **Engagement** |  |  |  |
-| *Ownership - Manager of One* | Conceptualizes new work to be done, and executes the steps to complete it successfully. Independently explores areas in their work area that could use improvement. | Conceptualizes projects that address gaps in the company's Support footprint. Able to devise & execute steps to form & complete the project, with guidance. | Fully capable of leading the most complex projects from inception to completion, coordinating multiple teams or external contractors independently. |
-| *Communication* | Attempts to unblock themselves but asks for help when needed. Communicates well in Basecamp check-ins, team calls, and within the team structure. Shares knowledge and acts as a resource for others. Communication happens reliably in the open, in Basecamp. | Acts as a representative to other teams, weighing in on larger discussions and making recommendations. Rarely needs help unblocking themselves. | Acts in a leadership capacity to the company, weighing in on larger discussions and making recommendations. Trusted advisor for everyone at the company in matters of Support and leadership. Demonstrates project management and communication best practices. Ensures leadership is informed on team progress. Responsible for cycle planning. |
-| *Flexibility* | Has strong points of view about leadership & technical approaches/solutions that are based in their own experience. Willing to express a viewpoint and opinion, and also able to disagree and commit. | Makes tactical & strategic recommendations based in experience & industry best practices, and can balance recommendations with the larger needs of the team and company. | Strong points of view rooted in experience, expertise, and industry best practices. Expresses opinions confidently and effectively, and always considers the needs of the company when making recommendations. |
-| *Trust* | Work doesn’t necessarily need to be reviewed, but general approach may be. | Work happens autonomously without check-ins or regular need for review. | Trusted to run the entire CS team with support from M1- 2 Managers. No day-to-day oversight, occasional strategic redirection from Sr. Leadership. Work happens autonomously with no need for status checks. Work is almost always free of mistakes. |
-| **Coachability** |  |  |  |
-| *Feedback* | Receives feedback with a positive attitude and applies corrective feedback well. Identifies areas for personal growth & development. | Can provide specific and constructive feedback on the work of others and to teammates. Reliably and judiciously incorporates feedback from leadership. | Sought by colleagues on and off the team for help with project work or decision making and professional guidance. |
+## Support and Customer Success
+
+Support at NovaOps sits inside Customer Success. The team helps customers use workflow automation safely and effectively, turns recurring pain into product feedback, and protects trust during incidents. Support titles recognize customer judgment, product fluency, written clarity, and the ability to solve problems without creating new ones.
+
+Support work includes reactive support cases, proactive customer health work, onboarding help, renewal-risk discovery, incident communication, and the translation of customer pain into useful Product and Engineering signal. Some employees carry "Support" titles and spend most of the day in SupportDesk. Others carry "Customer Success" titles and split time among Salesforce account work, Webex customer conversations, SupportDesk follow-up, and internal coordination. The ladder below applies when the work is primarily customer-facing problem solving inside Customer Success.
+
+Support employees usually work in Salesforce, Slack, Webex, Jira, SupportDesk, and approved customer communication channels. Access is granted by role and reviewed when someone changes teams. Salesforce is used for account context, contacts, renewal risk, contract-sensitive notes, and customer health. SupportDesk is used for support cases, customer-visible updates, internal notes, tags, severity, and handoff history. Jira is used when a customer issue needs Product, Engineering, QA, or release work. Webex is used for live customer calls when written support will not resolve confusion quickly enough or when trust needs a human conversation. Slack is for internal coordination, but durable decisions should be copied into Salesforce, SupportDesk, Jira, or the NovaOps wiki according to the subject.
+
+Support employees should understand the difference between helping, promising, and committing the company. A support employee may explain documented behavior, collect evidence, route a case, propose a workaround, and set a next update time. A support employee should not promise a release date, offer contractual concessions, approve billing changes, disclose security details beyond approved language, or guarantee a root cause before Engineering has confirmed it. When in doubt, preserve trust by saying what is known, what is being checked, who owns the next step, and when the customer will hear back.
+
+## Tools and Records
+
+Support quality depends on leaving a record that the next person can trust. A customer should not have to repeat the same story because the previous support note was vague, and an engineer should not have to reconstruct a defect from a chat summary. The default expectation is that SupportDesk contains the support case record, Salesforce contains account and relationship context, Jira contains product work, and Webex is summarized afterward when it changes the case.
+
+Use SupportDesk for the customer-facing ticket, severity, timestamps, troubleshooting evidence, internal notes, attachments that are approved for support handling, and the final resolution. Public replies should be clear, calm, and specific about the next step. Internal notes should separate facts from guesses. A note such as "customer says workflow paused after approval step, observed on tenant demo-421, started after 2026-06-18 release, logs attached in Jira" is useful. A note such as "customer angry, probably bug" is not enough.
+
+Use Salesforce when the issue affects customer health, renewal risk, executive relationships, onboarding milestones, expansion discussions, or named account ownership. Salesforce should not become a duplicate support thread. Link or reference the SupportDesk case, summarize the customer impact, and name the business risk. For example, Rachel Stein may update Salesforce when a recurring automation failure threatens a renewal conversation, while keeping the troubleshooting detail in SupportDesk and Jira.
+
+Use Jira when the case requires Product, Engineering, QA, documentation, or release tracking. A good Jira escalation includes the customer impact, reproduction steps, affected workflow, expected behavior, actual behavior, severity, known workaround, relevant SupportDesk case, and a clear request. Do not create a vague Jira issue for every unhappy customer. Escalate when there is evidence of a defect, unclear product behavior that needs a product decision, documentation that is creating repeat cases, or a customer-impacting gap that the support team cannot resolve alone.
+
+Use Webex when live conversation is the right tool: a new admin needs guided setup, an executive sponsor needs reassurance during an incident, a customer is confused after several written replies, or a sensitive renewal-risk conversation would be harmed by a long email chain. After the call, summarize the outcome in the system of record. If a Webex call produces a product decision, a customer commitment, a new risk, or a workaround, the summary belongs in SupportDesk, Salesforce, or Jira before the next handoff.
+
+Customer-facing employees should be careful with seat-limited tools. Webex seats are prioritized for customer-facing work when licenses are tight. SupportDesk agent seats are shared between Customer Success and IT, so requests for extra agent access should name the role need and manager approval. Salesforce access is restricted to Sales, Customer Success, and approved operational support roles. See [our internal systems](our-internal-systems.md) for access and approval rules.
+
+## Levels
+
+### S1, Support Specialist
+
+An S1 Support Specialist handles defined customer questions, follows playbooks, documents cases clearly, and escalates when a problem may involve product defects, security, billing, or contractual commitments. S1 work is expected to be reliable inside a bounded area. The person should not need reminders to update the customer, capture evidence, or ask for help when the case leaves the playbook.
+
+An S1 can answer common questions about workflow setup, user invitations, basic automation behavior, notification timing, and known configuration limits. They can guide a customer through a documented SupportDesk article, confirm the account context in Salesforce when they have access, and schedule or join a Webex call when a more senior teammate asks them to help with setup. They should know when a question is simple and when it only looks simple.
+
+Strong S1 behavior includes:
+
+- Writing SupportDesk replies that are polite, plain, and specific.
+- Reproducing simple customer reports before escalating.
+- Including screenshots, timestamps, workflow names, tenant names, and exact error text when available.
+- Tagging the case correctly so trends can be found later.
+- Checking Salesforce for account owner and customer tier before giving timing expectations.
+- Asking a senior teammate before giving advice that might affect security, billing, legal terms, or a renewal.
+- Updating the customer before the promised time, even when the update is "we are still investigating."
+
+An S1 is not expected to design cross-team escalation paths or own difficult executive conversations alone. The judgment expected at S1 is early recognition. If a customer says data may be exposed, a payment is blocked, an executive sponsor is threatening churn, or a production workflow stopped for many users, the S1 should not try to solve quietly. They should preserve evidence, alert the right owner, and keep the customer informed with approved language.
+
+Maya Cohen, when ramping as a Customer Success Manager, may perform S1 support activities during onboarding: shadow SupportDesk cases, write draft replies for review, learn how Salesforce records customer health, and join Webex calls with a buddy. That early work can be useful evidence of product learning, but it does not by itself establish S2 or S3 scope.
+
+### S2, Customer Support Specialist
+
+An S2 Customer Support Specialist owns a broader queue, explains product behavior clearly, identifies patterns, and partners with Engineering or Product through Jira when customer issues need deeper investigation. S2 is the first level where independent ownership matters. The employee should be able to manage a normal support day without a senior teammate deciding every next step.
+
+An S2 can handle ambiguous cases where the answer is not obvious but the risk is still contained. Examples include a customer who changed a workflow and now sees unexpected approvals, a new admin who cannot tell whether a rule failed or was misconfigured, or several customers reporting confusion after the same release note. The S2 should gather evidence, test reasonable hypotheses, avoid overclaiming, and decide whether the issue is a support answer, a documentation gap, a product bug, or an account-health concern.
+
+Strong S2 behavior includes:
+
+- Owning the customer communication plan for routine and moderate cases.
+- Connecting multiple SupportDesk cases into a pattern before the queue becomes noisy.
+- Creating Jira issues with reproduction steps and customer impact when a product investigation is needed.
+- Updating Salesforce when a support issue creates renewal risk, onboarding risk, or sponsor concern.
+- Knowing when a Webex call will reduce confusion and when it will waste customer time.
+- Coordinating with IT when access or tool limits affect support delivery.
+- Explaining product behavior in customer language without blaming Product, Engineering, or the customer.
+
+Rachel Stein's Customer Success Specialist role is an example of S2-shaped work when she owns a queue, keeps Salesforce and SupportDesk aligned, and handles normal customer conversations independently. If Rachel has a Webex license issue while supporting customers, strong S2 judgment means she names the customer impact, uses approved fallback channels where possible, and routes the license problem through IT instead of letting customer follow-up disappear.
+
+An S2 should not create unnecessary escalations to look responsive. Sending every confusing case to Engineering without evidence slows everyone down and damages credibility. An S2 should also not hide repeated confusion by answering each ticket separately. If five customers misunderstand the same automation setting, the stronger move is to flag the pattern, improve the article or template, and ask Product whether the behavior itself needs to be clearer.
+
+### S3, Senior Support Specialist or Customer Success Manager
+
+An S3 Senior Support Specialist or Customer Success Manager handles complex accounts, coaches teammates, manages difficult conversations, and turns customer feedback into useful internal signal. A senior support employee can balance empathy with boundaries. S3 is the level where the company trusts the employee to protect the customer relationship while also protecting NovaOps from bad commitments.
+
+An S3 can own complicated customer situations: a workflow automation failure affecting an important business process, an onboarding account that is losing confidence, a renewal at risk because of repeated support friction, or a defect where the workaround is inconvenient but safer than waiting for a release. The S3 should make the customer feel heard without promising what the company cannot yet deliver.
+
+Strong S3 behavior includes:
+
+- Leading difficult customer conversations with a clear agenda, evidence, and next update time.
+- Coaching S1 and S2 teammates on case framing, customer tone, and escalation quality.
+- Deciding when a case needs Jira, when it needs Salesforce attention, and when it can be resolved in SupportDesk.
+- Translating messy customer frustration into specific Product or Engineering questions.
+- Proposing safe workarounds and naming their limits.
+- Keeping Sales informed when a case affects a renewal or expansion conversation.
+- Helping Product distinguish one loud customer preference from a broader product problem.
+- Writing internal summaries that leaders can use without attending every call.
+
+A Customer Success Manager such as Maya Cohen may become S3 when she can own customer health and complex support outcomes, not merely when she has many customer meetings. For example, if Maya guides a customer through a troubled launch, coordinates a SupportDesk case, opens a precise Jira issue for an automation defect, updates Salesforce with renewal risk, and keeps the customer informed without overpromising, that is S3-shaped evidence. If she only attends Webex calls while a senior teammate makes all decisions, that is useful participation but not yet S3 ownership.
+
+S3 judgment includes saying no well. A customer may ask for a private roadmap guarantee, a custom billing concession, a shortcut around approval rules, or direct Engineering access for every question. The S3 should acknowledge the need, offer the supported path, and involve the right owner when the request crosses authority. Saying "I cannot promise that today, but I can confirm the decision owner and next update by Thursday" is often stronger than saying yes and repairing the damage later.
+
+### S4, Support Lead or Senior Customer Success Manager
+
+An S4 Support Lead or Senior Customer Success Manager owns support quality for a segment, improves processes, and coordinates with Sales, Product, and Engineering on customer health. This level may include people management, but can also be senior individual contribution. S4 work is measured by the system getting better, not by the lead personally rescuing every difficult case.
+
+An S4 might own support quality for enterprise onboarding, workflow automation incidents, renewal-risk accounts, or a customer segment. They should know the health of the queue, the recurring failure modes, the customers who need proactive attention, and the internal teams that must change behavior. They should be able to run a support retrospective, revise escalation criteria, improve templates, and negotiate priorities across Customer Success, Sales, Product, Engineering, QA, IT, and Finance when needed.
+
+Strong S4 behavior includes:
+
+- Setting quality standards for SupportDesk case notes, customer replies, and escalation evidence.
+- Creating playbooks for common but risky situations, such as suspected security issues or release-related workflow failures.
+- Reviewing Jira escalation quality and helping Support avoid weak or duplicate product requests.
+- Building account-health views in Salesforce or operating reports that show risk earlier.
+- Partnering with Sales on renewal-risk language without letting revenue pressure distort the support facts.
+- Coordinating Webex-heavy customer recovery plans while preserving written records.
+- Improving onboarding, handoff, and access processes for the support team.
+- Coaching managers or senior ICs on support judgment and customer trust.
+
+An S4 is expected to manage edge cases calmly. If SupportDesk shows a spike in similar automation failures after a release, the S4 should gather the pattern, align with Engineering and Product through Jira, decide customer update timing, and make sure Salesforce reflects real account risk. If Webex seats are over the limit and customer-facing calls are being blocked, the S4 should work with IT and Finance through the normal approval path rather than asking teammates to share accounts or move customer conversations into unapproved tools.
+
+S4 scope can include people management, but people management alone does not make the level. A manager who approves schedules but does not improve support quality is not operating at S4. A senior individual contributor who redesigns escalation flow, reduces repeat cases, and improves customer trust across a segment may be operating at S4 even without direct reports.
+
+### S5, Customer Success Director
+
+An S5 Customer Success Director sets strategy for customer retention, support quality, and escalation management across the function. Yael Romano's Customer Success Director role is an example of this kind of scope. S5 work is about how Customer Success operates as a function: what support quality means, how escalation risk is governed, how customer trust is protected, and how customer feedback changes the company.
+
+An S5 should be able to answer questions such as: which support problems are putting revenue or trust at risk, where the team is underinvesting, which tools or processes are creating hidden cost, what Product needs to hear from customers, and which escalation rules prevent panic without slowing urgent response. The S5 sets direction, but also makes sure the direction can be used by S1 through S4 employees in real cases.
+
+Strong S5 behavior includes:
+
+- Defining support and customer-health strategy across segments.
+- Setting escalation standards with Sales, Product, Engineering, IT, Finance, and company leadership.
+- Owning customer communication principles for major incidents and repeated product pain.
+- Using Salesforce, SupportDesk, Jira, and customer feedback to identify systemic risk.
+- Deciding where to invest in staffing, tooling, documentation, automation, or training.
+- Making tradeoffs between short-term customer recovery and long-term product or process health.
+- Representing Customer Success in company-level planning without turning every customer request into a roadmap commitment.
+- Ensuring promotions, calibration, and growth expectations are fair across Support and Customer Success roles.
+
+Yael Romano may approve or guide high-risk escalations, but S5 success does not mean every hard customer call waits for Yael. A strong S5 creates a system where S2 employees can handle normal queue ownership, S3 employees can own complex accounts, and S4 employees can improve segment quality. If every customer concern must be personally rescued by the director, the support system is too fragile.
+
+S5 also owns boundary clarity. Customer Success should influence Product, not become unofficial Product Management. Customer Success should partner with Sales, not promise discounts or contract terms without the right owner. Customer Success should coordinate with IT on SupportDesk and Webex access, not bypass access rules. Customer trust is built when the company is consistent about who can make which commitment.
+
+## Escalation Judgment
+
+Escalation is a judgment call, not a reflex. The purpose is to get the right owner involved at the right time with enough evidence to act. Under-escalation leaves customers exposed. Over-escalation teaches internal teams to ignore support signals. Strong support employees learn to tell the difference.
+
+Escalate quickly when a case may involve security, privacy, billing, contractual commitments, production incidents, data integrity, broad customer impact, executive sponsor risk, or a customer commitment that NovaOps may not be able to meet. Escalate with evidence when a product defect is likely, when the same confusion repeats across customers, when the documented behavior conflicts with customer need, or when a workaround creates meaningful risk.
+
+Do not escalate just because the customer is loud, the account is large, the support employee is uncomfortable, or the answer is not immediately known. Those facts may influence urgency, but they do not replace evidence. A loud customer with a configuration mistake still deserves calm help, not a fake emergency. A small customer with a possible data issue deserves immediate attention, even if the account is not large.
+
+A useful escalation includes:
+
+- Customer name and account owner.
+- SupportDesk case link or case identifier.
+- Salesforce account context when relevant.
+- Customer impact and business consequence.
+- Severity and why that severity was chosen.
+- Reproduction steps, timestamps, workflow names, screenshots, or logs when available.
+- Known workaround and its limits.
+- Customer-facing promise already made, if any.
+- Requested decision or action.
+- Next customer update time.
+
+Realistic edge cases include:
+
+- A customer says "data was exposed" but provides no details. Treat this as potentially serious, preserve the SupportDesk record, avoid speculation, and involve the security or incident path. Do not promise breach conclusions.
+- A customer demands a release date for a fix. Support may share approved status and next update timing, but Product or Engineering owns release commitments.
+- A Sales teammate asks Support to mark a case resolved before a renewal call. Support may summarize progress in Salesforce, but should not hide unresolved customer impact.
+- A customer asks for a Webex recording to include sensitive workflow details. Confirm the approved handling path before recording or sharing.
+- A Product Manager wants direct access to every support case. Share relevant SupportDesk or Jira context according to access rules; do not broaden access without approval.
+- A Jira issue is closed as "works as designed" but customers keep opening cases. Support should not reopen the same ticket repeatedly without new evidence; the stronger move is to summarize the pattern and ask Product whether the design or documentation should change.
+- A SupportDesk owner field says IT even though Customer Success owns the support process. Use the business owner and approval path described in [our internal systems](our-internal-systems.md), and do not treat database messiness as permission to bypass review.
+
+## Customer Trust
+
+Customer trust is not the same as customer happiness in the moment. A customer may be unhappy because the answer is no, because a bug takes time, or because a workaround is inconvenient. Support protects trust by being accurate, timely, respectful, and consistent.
+
+Strong customer trust behaviors include acknowledging the customer's goal, naming what is known, avoiding blame, setting the next update time, and following through. When the answer changes, explain what changed. When NovaOps caused the problem, say so in approved language and focus on repair. When the customer caused the issue, avoid making them feel foolish; explain the safer configuration and how to prevent recurrence.
+
+Support should use plain language. Customers should not need to understand NovaOps org structure to understand their case. "Engineering is investigating an issue with approval-step evaluation and we will update you by 15:00 UTC tomorrow" is better than "ENG is checking the backend thing." "This is not a supported configuration because it can skip required approvals" is better than "we cannot do that."
+
+Trust also depends on boundaries. Do not promise private roadmap items, unofficial discounts, special security terms, permanent workaround support, or immediate executive involvement unless the correct owner has approved it. Do not tell a customer that Product or Engineering "refused" to help. If an internal decision disappoints the customer, explain the supported path and next option.
+
+Support employees should be careful with customer evidence. Use approved systems, do not move confidential customer data into personal notes, and do not paste sensitive customer details into broad Slack channels. If a screenshot, export, recording, or log contains sensitive data, ask for the approved handling path before sharing it. This is part of support professionalism, not an administrative detail.
+
+## Promotion Evidence
+
+Strong support evidence includes faster resolution of the right issues, better customer trust, fewer repeat escalations, clearer internal documentation, and product feedback that leads to improvement. Managers should look for judgment under pressure, not just ticket volume. A support employee who prevents recurring customer confusion may create more value than one who closes the most simple cases.
+
+Promotions follow the process in [making a career](making-a-career.md). Evidence should include customer outcomes, collaboration examples, and the way the employee strengthened the support system for others. A good promotion packet should map examples to the next level rather than listing every case the employee touched.
+
+Useful evidence can include:
+
+- SupportDesk cases showing clear communication, evidence quality, and appropriate ownership.
+- Salesforce updates showing account-health judgment, renewal-risk clarity, or customer recovery.
+- Jira issues that led to product fixes, documentation improvements, or better release decisions.
+- Webex call summaries that turned confusing live conversations into durable next steps.
+- Customer feedback that mentions clarity, trust, recovery, or confidence rather than only friendliness.
+- Reduced repeat cases because the employee improved a template, article, workflow, or product signal.
+- Better escalation quality, such as fewer duplicate Jira issues and faster Engineering triage.
+- Coaching that made S1 or S2 teammates more independent.
+- Cross-functional examples where Support influenced Product, Engineering, Sales, IT, or Finance with evidence.
+- Judgment under pressure, especially when the employee avoided overpromising.
+
+For S1 to S2, evidence should show independent queue ownership, clearer explanations, good case hygiene, and the ability to identify patterns. For S2 to S3, evidence should show complex account ownership, difficult customer conversations, useful coaching, and stronger cross-functional judgment. For S3 to S4, evidence should show segment-level quality improvement, process ownership, and leverage beyond the employee's own accounts. For S4 to S5, evidence should show function-level strategy, durable escalation systems, and measurable improvement in customer trust, retention, or support quality.
+
+Promotion evidence should separate activity from impact. "Handled 400 tickets" is incomplete. "Reduced repeat onboarding tickets by changing the admin setup guide, creating a SupportDesk macro, and opening a Jira request for confusing copy" is stronger. "Joined many customer calls" is incomplete. "Led three at-risk customer recovery plans, kept Salesforce risk current, and prevented unsupported roadmap commitments while restoring executive trust" is stronger.
+
+Managers should include the hard parts. A promotion packet is more credible when it names the ambiguity, risk, or tradeoff. If Rachel Stein resolved a Webex-related customer follow-up problem, the packet should explain how she protected the customer experience despite the tool constraint. If Maya Cohen owned a troubled onboarding account, the packet should describe what decisions she made, what help she asked for, and what changed for the customer. If Yael Romano sponsors an S4 promotion, the evidence should show that the employee improved support quality beyond their personal relationships with customers.
+
+## What Does Not Count
+
+Some work is useful but not promotion evidence by itself. This section is not meant to dismiss effort. It helps managers and employees avoid confusing motion with level.
+
+Weak or incomplete evidence includes:
+
+- Closing many simple cases without improving customer outcomes or support quality.
+- Being friendly in Webex calls while someone else owns the hard decisions.
+- Staying online late as a habit instead of improving escalation paths or coverage.
+- Escalating everything to Engineering to look urgent.
+- Avoiding escalation until the customer loses trust.
+- Writing long internal updates that do not name the decision, owner, evidence, or next step.
+- Receiving Slack praise that is not tied to customer impact or level expectations.
+- Owning a crisis that the employee helped create through poor handoff, overpromising, or missing evidence.
+- Becoming the only person who knows how to handle a case type instead of documenting and teaching it.
+- Pushing for a customer exception that violates access, billing, security, or contract boundaries.
+- Creating duplicate Salesforce, SupportDesk, and Jira records that disagree with each other.
+
+A customer saying "thank you" is good, but it does not automatically prove seniority. A customer being angry does not automatically prove the support employee did anything wrong. The question is whether the employee used the right judgment for the level: clear facts, appropriate urgency, honest communication, durable records, and better outcomes over time.
+
+## Role Examples
+
+Rachel Stein is a Customer Success Specialist in the United Kingdom. Examples that fit her role include owning SupportDesk cases for active customers, using Salesforce to understand account context, joining Webex calls to resolve confusion, and opening Jira issues when customer evidence points to a product or documentation problem. If Rachel notices three customers struggling with the same automation rule, strong work is to connect the pattern, improve the support response, and escalate the product question with evidence.
+
+Maya Cohen is a Customer Success Manager in Israel during preboarding and early ramp. Examples that fit her role include learning SupportDesk workflows, shadowing customer calls, keeping Salesforce account notes clean, and gradually owning onboarding risks. As she grows, stronger evidence would include leading a customer through a complex launch, coordinating a support escalation, and maintaining trust without making commitments outside her authority.
+
+Yael Romano is the Customer Success Director. Examples that fit her scope include setting escalation standards, approving support-quality investments, aligning with Product and Engineering on customer-risk themes, and making sure SupportDesk, Salesforce, Webex, and Jira are used consistently. Yael should be involved in high-risk customer strategy, but the support ladder is healthier when her team can resolve ordinary and moderately complex cases without waiting for director intervention.
+
+Support and Customer Success titles should reflect actual work. A person with a customer-facing title who mostly performs internal operations may fit the [operations ladder](titles-for-ops.md) better. A person embedded in release testing may fit the [QA ladder](titles-for-QA.md). A person doing product discovery may contribute useful customer insight, but Product title expectations are different from Support title expectations. When the ladder choice is unclear, the manager should explain which outcomes the employee owns and which title guide best matches the evidence.

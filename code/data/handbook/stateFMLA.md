@@ -1,39 +1,67 @@
-# State Medical and Family Leave Provisions
+---
+last_updated: 2024-10-14
+corpus: handbook
+audience: all
+---
 
-Below are states that have Paid Medical and Family Leave provisions and in which 37signals has employees. If you work in one of the following states and contribute to these programs, you may qualify for leave. More detailed explanations of these benefits and their workplace posters can be [found in Basecamp](https://3.basecamp.com/2914079/buckets/28168307/vaults/9398609755).
+# State Family and Medical Leave
 
-## California Medical and Family Leave
+## Scope
 
-* Residents of California may be eligible for continuous or intermittent leave to care for themselves, a child, or another family member.
-* [Disability Insurance](https://edd.ca.gov/en/disability/disability_insurance/) for when you're unable to work and lose wages due to a non-work-related illness or injury, pregnancy, childbirth, surgery, or alcohol or drug rehabilitation, up to 52 weeks. CA-DI offers monetary benefits, but not job protection.
-* [Paid Family Leave for Bonding](https://edd.ca.gov/en/disability/paid-family-leave/) with a new baby or after the placement of an adopted or foster child. CA-PFL does not provide job protection, only monetary benefits, up to 8 weeks.
-* [Paid Family Leave for Caregivers](https://edd.ca.gov/en/disability/paid-family-leave/caregivers/) to care for a seriously ill or injured family member. CA-PFL does not provide job protection, only monetary benefits, up to 8 weeks.
+This document explains NovaOps family and medical leave basics, especially for US employees whose leave may interact with federal, state, or local leave laws. NovaOps also employs people in Israel, Germany, and the United Kingdom. If local law or an employment agreement provides more generous leave or a different process, NovaOps follows that requirement.
 
-## Colorado Medical and Family Leave
+Leave questions should go to People Operations through [BambooHR](https://bamboohr.novaops.example) or to sara.bendavid@novaops.example. Medical details should be shared only with People Operations or the approved leave administrator, not with your manager.
 
-* Residents of Colorado may be eligible for continuous or intermittent leave to care for themselves, a child, or other family member. CO-PMFL programs provide job protection and monetary benefits.
-* [Paid Family Leave for Bonding](https://famli.colorado.gov/individuals-and-families/parental-bonding-leave) with a new baby or after the placement of an adopted or foster child, up to 16 weeks.
-* [Paid Family Leave for Family Care](https://famli.colorado.gov/individuals-and-families/medical-leave-to-care-for-a-family-member) to care for a seriously ill or injured family member, up to 12 weeks.
-* [Paid Family Leave for Self](https://famli.colorado.gov/individuals-and-families/medical-leave-to-care-for-yourself) to manage your own serious health condition, up to 12 weeks.
-* [Paid Family Leave for Military Families](https://famli.colorado.gov/individuals-and-families/military-family-members-exigency-leave) to manage arrangements when an immediate family member is called to active service in a foreign country, up to 12 weeks.
-* [Paid Family Leave for Safe Leave](https://famli.colorado.gov/individuals-and-families/safe-leave-domestic-violence) to care for yourself or a family member after an incident of assault or domestic violence, up to 12 weeks.
+## Parental Leave
 
-## Massachusetts Medical and Family Leave
-* Residents of Massachusetts may be eligible for continuous or intermittent leave to care for themselves, a child, or other family member. MA-PMFL programs provide job protection and monetary benefits.
-* [Paid Medical Leave](https://www.mass.gov/info-details/pfml-about-medical-leave-to-manage-your-own-serious-health-condition) to manage your own serious health condition, up to 20 weeks per benefit year.
-* [Paid Family Leave for Family Care](https://www.mass.gov/info-details/pfml-about-family-leave-to-care-for-a-family-member) to care for a loved one with a serious health condition, up to 12 weeks per benefit year.
-* [Paid Family Leave for Bonding](https://www.mass.gov/info-details/pfml-about-family-leave-to-bond-with-a-child) with a child during the first 12 months after the child’s birth, adoption, or foster care placement, up to 12 weeks.
-* [Paid Family Leave for Family Members of Covered Service Personnel](https://www.mass.gov/info-details/pfml-about-leave-for-family-members-of-covered-military-personnel) to manage needs that take place immediately after a family member who is covered service personnel is deployed or about to be deployed on active duty, up to 12 weeks per benefit year, *or* to care for a family member who is service personnel with a serious health condition, up to 26 weeks per benefit year.
+Primary caregivers welcoming a new child by birth, adoption, surrogacy, or foster placement receive up to 16 weeks of leave at 100% pay. Secondary caregivers receive up to 6 weeks at 100% pay. All paid parental leave must be taken within the first year of the child's birth or placement.
 
-## New Jersey Medical and Family Leave
-* Residents of New Jersey may be eligible for continuous or intermittent leave to care for themselves, a child, or other family member.
-* [Temporary Disability Insurance](https://www.nj.gov/labor/myleavebenefits/worker/tdi/) to manage your own physical or mental health condition unrelated to your work (including pregnancy and childbirth recovery). Temporary Disability Insurance provides monetary benefits but not job protection, up to 26 weeks.
-* [Maternity Coverage](https://www.nj.gov/labor/myleavebenefits/worker/maternity/), which may be comprised of two programs: Temporary Disability for expectant mothers when they need to stop working before and after giving birth; and Family Leave Insurance for newborn bonding. Together, these programs may provide up to 24 weeks of monetary benefits; job protection may be available under other laws.
-* [Family Leave Insurance](https://www.nj.gov/labor/myleavebenefits/worker/fli/index.shtml?open=caregiver) to care for a loved one, bond with a new child, or cope with domestic violence. Family Leave Insurance provides monetary benefits, up to 12 weeks or 56 intermittent days; job protection may be available under other laws.
+You may take parental leave in one block or, with manager and People Operations approval, in two blocks. Additional unpaid leave may be available after paid parental leave, depending on local law, role coverage, and medical or caregiving need.
 
-## Oregon Medical and Family Leave
-* Residents of Oregon may be eligible for continuous or intermittent leave to care for themselves, a child, or other family member.
-* [Paid Leave Oregon](https://paidleave.oregon.gov/employees/applying-for-medical-leave.html/#whatqualifies) to manage your own physical or mental health condition unrelated to your work (including pregnancy and childbirth recovery). Paid Leave Oregon provides job protection and monetary benefits, up to 12 weeks (up to 14 weeks if pregnancy-related).
-* Paid Family Leave for [caring for and bonding with a child](https://paidleave.oregon.gov/employees/applying-for-family-leave.html) within the first year of the birth of a new baby or the placement of an adopted or foster child, up to 14 weeks. Paid Leave Oregon provides job protection and monetary benefits.
-* [Paid Family Leave for Family Care](https://paidleave.oregon.gov/employees/applying-for-family-leave.html) to care for a seriously ill or injured family member, up to 12 weeks. Paid Leave Oregon provides job protection and monetary benefits.
-* [Paid Family Leave for Safe Leave](https://paidleave.oregon.gov/employees/applying-for-safe-leave.html) to care for yourself or your child after an incident of assault or domestic violence, up to 12 weeks. Paid Leave Oregon provides job protection and monetary benefits.
+## Family and Medical Leave
+
+Eligible US employees may take up to 12 weeks of unpaid, job-protected family or medical leave in a rolling 12-month period for their own serious health condition, care for a qualifying family member, bonding with a new child, certain military family needs, or other protected reasons. Paid NovaOps leave, state paid leave, short-term disability, and statutory leave usually run concurrently when the law permits.
+
+NovaOps will maintain health benefits during approved job-protected leave under the same terms that apply when actively working. Employees remain responsible for any employee premium share.
+
+## Requesting Leave
+
+Give at least 30 days' notice when the need for leave is foreseeable. If it is not foreseeable, notify your manager and People Operations as soon as practical. Request leave in BambooHR and upload required certification only to the secure HR workflow.
+
+Managers should discuss coverage, priorities, and return timing, but should not ask for diagnosis details. A returning employee should receive a realistic ramp plan, especially after parental or medical leave. See [getting started](getting-started.md) for the general ramp philosophy.
+
+## Manager and Team Coverage
+
+Employees are not responsible for hiding leave to make planning easier. If you expect to be away for more than five consecutive business days, work with your manager on coverage after People Operations confirms the leave type. Coverage planning should focus on active projects, customer commitments, system access, decision rights, and what can safely wait. It should not require the employee to disclose a diagnosis, treatment plan, or family details.
+
+For customer-facing roles, the manager should name a backup owner in Salesforce or SupportDesk before leave begins. For Engineering and Product roles, open Jira work should be reassigned or paused. For HR, IT, and Finance roles, recurring workflows such as onboarding tasks, access approvals, renewals, payroll cutoffs, and equipment orders should have a named backup. A plan that simply says "the team will cover it" is not enough.
+
+## Intermittent and Reduced-Schedule Leave
+
+Some medical or caregiving situations require intermittent leave or a reduced schedule. NovaOps will consider these requests through People Operations and the applicable local process. If approved, the employee and manager should agree on practical working norms: expected available days, meeting limits, handoff method, and which work should not be assigned during the reduced schedule.
+
+Intermittent leave is not the same as ordinary flexible scheduling. A person using protected intermittent leave should not be marked as unreliable because approved leave creates calendar gaps. At the same time, employees should record leave accurately in BambooHR when the leave type requires tracking.
+
+## Country and Local Law Notes
+
+NovaOps uses one global baseline so employees can understand the general company promise, but leave administration differs by location. In Israel, Germany, the United Kingdom, and the United States, statutory leave, benefits, payroll handling, documentation rules, and job-protection terms may differ. People Operations will coordinate local requirements with the employee and payroll provider.
+
+US employees may have federal, state, or local leave rights. Some US programs provide partial wage replacement through a state system rather than through NovaOps payroll. German employees may have different documentation and statutory pay rules. UK employees may have statutory family-leave categories and notice rules. Israeli employees may have local parental, reserve duty, illness, or caregiving protections. This handbook does not list every local rule because those rules change; BambooHR and People Operations are the practical source for your case.
+
+## Privacy and Documentation
+
+Medical documents should be uploaded only through the secure HR workflow in [BambooHR](https://bamboohr.novaops.example) or sent through the channel People Operations provides. Do not post medical certificates, adoption documents, pregnancy details, or caregiver documentation in Slack, Jira, GitHub, Salesforce, or a shared team folder.
+
+Managers may ask about work impact, expected timing, coverage needs, and whether the employee wants optional contact while away. Managers may not ask for a diagnosis, medication, treatment details, fertility information, or family legal documents. If a manager receives sensitive information by accident, they should stop the conversation and ask People Operations how to handle the record.
+
+## Pay, Holidays, and Benefits During Leave
+
+Paid parental leave is paid at 100% of regular base pay for the approved paid period: up to 16 weeks for a primary caregiver and up to 6 weeks for a secondary caregiver. Paid leave does not include sales commissions, referral bonuses, one-time recognition awards, or reimbursements. Benefits continue according to local plan rules. Employees may still need to pay their normal employee contribution where a local plan requires it.
+
+Public holidays that occur during parental leave do not extend the paid parental leave period unless local law requires a different rule. Vacation accrual during longer leaves depends on local law and plan rules. If the interaction between vacation, statutory leave, and NovaOps paid leave is confusing, ask People Operations before entering time in BambooHR.
+
+## Returning From Leave
+
+Before a planned return, the employee and manager should agree on the first two weeks of work, the most important context to rebuild, and any temporary schedule limits. A returning employee should not be handed every paused project on the first day back. For parental leave, family leave, or medical leave, a 30-day ramp plan is normal and does not imply weak performance.
+
+If the employee needs an accommodation, schedule change, pumping time, travel restriction, or gradual return, People Operations should coordinate the process. The manager should focus on work expectations and coverage, not medical or family details. Managers should also check system access before the return date; Okta, Slack, Webex, Jira, Salesforce, GitHub, or AWS access may need to be restored if it was paused during leave.
